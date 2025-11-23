@@ -23,28 +23,16 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 ## 🌱 I'm currently learning
 
 - **Cancer biology & immunology** - Reading Nature Immunology, Nature Cancer, and key textbooks like *Oncoimmunology*
-- **Python & R programming** for genomic data science (Coursera specializations)
+- **Python & R programming** for genomic data science - through online courses and personal projects
 - **Bioinformatics fundamentals** - preparing for future computational cancer research
 - **Organic chemistry & biochemistry** - strengthening prerequisites for PhD programs
 - **Data science & machine learning** - building computational skills to complement wet lab expertise
 
 ---
 
-## 🎯 My Career Journey
-
-I'm on a unique path combining **clinical laboratory science**, **data science**, and **translational research**:
-
-1. **Phase 1 (2026-2027)**: Work as MLS while completing chemistry prerequisites and professional certifications (Phlebotomy CPT, BLS, AMT MLS)
-2. **Phase 2 (2028-2029)**: Pursue **MS in Data Science** at University of Pittsburgh (part-time) while continuing MLS work - focusing on cancer genomics and computational biology
-3. **Phase 3 (2030)**: Apply to **PhD programs** in Cancer Biology/Virology/Immunology at institutions like Mayo Clinic, University of Pittsburgh, City of Hope, and Utah/Huntsman Cancer Institute
-4. **Phase 4 (2030-2035/36)**: Complete **PhD focused on oncolytic virotherapy** - engineering viruses to target and destroy cancer cells
-5. **Phase 5 (2036+)**: Lead **oncolytic virus R&D programs** in biotech/pharma while teaching as an **adjunct professor**
-
----
-
 ## 👯 I'm looking to collaborate on
 
-- **Undergraduate research projects** in virology, immunology, or cancer biology
+- **Research projects** in virology, immunology, or cancer biology
 - **Open-source bioinformatics tools** for genomic data analysis
 - **Cancer research initiatives** that bridge computational and experimental approaches
 - **Educational resources** for students pursuing non-traditional paths to PhD programs
@@ -73,8 +61,8 @@ I'm on a unique path combining **clinical laboratory science**, **data science**
 
 ## 📫 How to reach me
 
-- 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/jonathan-to)
-- 📧 **Email**: [jonathan.to@example.com](mailto:jonathan.to@example.com)
+- 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/jonathanto99)
+- 📧 **Email**: [toshuyi@gmail.com](mailto:toshuyi@gmail.com)
 - 🧬 **GitHub**: You're already here! Feel free to explore my projects and repositories
 
 ---
@@ -87,12 +75,9 @@ He/Him
 
 ## ⚡ Fun facts
 
-- 🎓 I'll hold **4 professional certifications** by age 28: AMT MLS, Phlebotomy CPT, BLS, and First Aid
 - 🔬 I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
-- 📊 I created an **interactive Jupyter notebook** to visualize and track my entire 10-year career roadmap with adjustable timelines and financial projections
-- 🧘 I believe **sustainability > speed** - my roadmap includes detailed self-care strategies because burnout prevention is just as important as academic excellence
-- 🎯 By the time I finish my PhD, I'll have **~4 years of clinical MLS experience** + **MS in Data Science** + **research expertise** - positioning me uniquely for translational oncolytic virus research
 - 🌱 I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
+- 🍳 I enjoy **cooking** (with or without recipes), **reading** and **hiking** in my free time! 
 
 ---
 
@@ -104,7 +89,7 @@ Most PhD candidates choose one of these paths:
 - **Computational route**: BS → MS in Bioinformatics → PhD
 
 **My hybrid approach**: 
-- **BS Microbiology** → **MLS work + Chemistry prerequisites** → **MS Data Science** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
+- **BS Microbiology** → **MLS work** → **MS Data Science** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
 
 This gives me clinical diagnostic expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
 
@@ -113,7 +98,6 @@ This gives me clinical diagnostic expertise, computational biology skills, AND r
 ## 📚 Current Projects
 
 Check out my repositories for:
-- **Career Roadmap Tools**: Interactive Jupyter notebooks for visualizing long-term career timelines
 - **Bioinformatics Learning**: Projects from my journey learning Python, R, and computational biology
 - **Research Notes**: Documentation of my learning in cancer biology, virology, and immunology
 
