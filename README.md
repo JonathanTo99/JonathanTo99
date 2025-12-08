@@ -12,22 +12,26 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 
 ------------------------------------------------------------------------
 
+## 😄 Pronouns
+
+He/Him
+
+------------------------------------------------------------------------
+
 ## 🔭 I'm currently working on
 
 -   **Finishing my BS in Microbiology** at BYU (graduating April 2026)
--   **Undergraduate research** in immunology, virology, and molecular biology (MMBIO 294R, 399R, CHEM 297R)
+-   **Undergraduate research** in bacteriology, virology, immunology, and proteomics (MMBIO 399R, 494R, CHEM 497R)
 -   Building expertise in **flow cytometry** and immunology lab techniques
--   Completing key courses: **Hematology**, **Immunology Lab**, and **Bioinformatics**
 -   Planning my transition to a **biotech industry** role in Utah
 
 ------------------------------------------------------------------------
 
 ## 🌱 I'm currently learning
 
+-   **Organic chemistry & biochemistry** - strengthening prerequisites for PhD programs
 -   **Cancer biology & immunology** - Reading Nature Immunology, Nature Cancer, and key textbooks like *Oncoimmunology*
 -   **Python & R programming** for genomic data science - through online courses and personal projects
--   **Bioinformatics fundamentals** - preparing for future computational cancer research
--   **Organic chemistry & biochemistry** - strengthening prerequisites for PhD programs
 -   **Data science & machine learning** - building computational skills to complement wet lab expertise
 
 ------------------------------------------------------------------------
@@ -69,17 +73,11 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 
 ------------------------------------------------------------------------
 
-## 😄 Pronouns
-
-He/Him
-
-------------------------------------------------------------------------
-
 ## ⚡ Fun facts
 
 -   🔬 I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
 -   🌱 I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
--   🍳 I enjoy **cooking** (with or without recipes), **reading** and **hiking** in my free time!
+-   🍳 I enjoy **cooking** (with or without recipes), **gaming**, **reading** and **hiking** in my free time!
 
 ------------------------------------------------------------------------
 
@@ -87,7 +85,7 @@ He/Him
 
 Most PhD candidates choose one of these paths: - **Traditional route**: BS → PhD directly (age 22-28) - **Clinical route**: BS → clinical work → maybe PhD later - **Computational route**: BS → MS in Bioinformatics → PhD
 
-**My hybrid approach**: - **BS Microbiology** → **Biotech Industry Work** → **MS Data Science** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
+**My hybrid approach**: - **BS Microbiology** → **Biotech Industry Work** → **MS in Translational Bioinformatics** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
 
 This gives me industry biotech expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
 
@@ -95,7 +93,9 @@ This gives me industry biotech expertise, computational biology skills, AND rese
 
 ## 📚 Current Projects
 
-Check out my repositories for: - **Bioinformatics Learning**: Projects from my journey learning Python, R, and computational biology - **Research Notes**: Documentation of my learning in cancer biology, virology, and immunology
+Check out my repositories for more details on these projects:
+- **Bioinformatics Learning**-- Projects from my journey learning Python, R, and computational biology 
+- **Research Notes**-- Documentation of my learning in cancer biology, virology, and immunology
 
 ------------------------------------------------------------------------
 
