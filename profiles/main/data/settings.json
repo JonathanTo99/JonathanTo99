@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "renv.lock": "json"
+    },
+    "workbench.colorTheme": "GitHub Dark Default",
+    "positron.assistant.enable": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "\"Jetbrains Mono\"",
+    "editor.fontSize": 13,
+    "git.autofetch": true,
+    "syncSettings.crons": {
+        "upload": "0 */4 * * *"  // Upload every 4 hours for backup
+    },
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:ClaudeOpus4.5",
+    "window.newWindowProfile": "Default",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "syncSettings.additionalFiles": [
+    ],
+    "syncSettings.repository": {
+        "type": "git",
+        "path": "c:\\Backup\\GitHub\\Jonathans-Personal-Repo"
+    },
+    "redhat.telemetry.enabled": false,
+    "syncSettings.hooks.postDownload": ""
+}
