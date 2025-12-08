@@ -18,7 +18,7 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 -   **Undergraduate research** in immunology, virology, and molecular biology (MMBIO 294R, 399R, CHEM 297R)
 -   Building expertise in **flow cytometry** and immunology lab techniques
 -   Completing key courses: **Hematology**, **Immunology Lab**, and **Bioinformatics**
--   Planning my transition to a **Medical Laboratory Scientist (MLS)** role in Utah
+-   Planning my transition to a **biotech industry** role in Utah
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 
 -   **Career planning** for non-traditional paths to PhD programs
 -   **Balancing work and graduate school** (I'll be doing MS part-time while working full-time!)
--   **Medical laboratory science** as a foundation for translational research
+-   **Biotech industry experience** as a foundation for translational research
 -   **Oncolytic virotherapy** and cancer immunology (my passion!)
 -   **Flow cytometry** and immunology lab techniques
 -   **Building a sustainable timeline** for long-term academic/career goals
@@ -87,9 +87,9 @@ He/Him
 
 Most PhD candidates choose one of these paths: - **Traditional route**: BS → PhD directly (age 22-28) - **Clinical route**: BS → clinical work → maybe PhD later - **Computational route**: BS → MS in Bioinformatics → PhD
 
-**My hybrid approach**: - **BS Microbiology** → **MLS work** → **MS Data Science** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
+**My hybrid approach**: - **BS Microbiology** → **Biotech Industry Work** → **MS Data Science** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
 
-This gives me clinical diagnostic expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
+This gives me industry biotech expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
 
 ------------------------------------------------------------------------
 
