@@ -66,7 +66,7 @@ Use this section to track specific requirements from your target programs.
 | 2 | Biochemistry | UC San Diego | \$845 | Winter 2027 |
 | 3 | Organic Chemistry II | UC San Diego | \$845 | Spring 2027 (if needed) |
 
-**Total Estimated Investment**: \$1,690-2,535 (depending on program requirements)
+**Total Estimated Investment**: $1,690-2,535 (depending on program requirements)
 
 **Note**: Math courses (Statistics, Calculus, Linear Algebra) are NOT needed - they're covered by the MS program and not required for admission.
 
