@@ -8,6 +8,8 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 
 -   [ ] Organic Chemistry I & II
 -   [ ] Biochemistry
+-   [ ] Cell Biology
+-   [ ] Genetics
 
 ## Recommended for Oncology/Cancer Biology
 
