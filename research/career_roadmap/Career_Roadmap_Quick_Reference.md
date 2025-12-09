@@ -6,16 +6,8 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 
 ## Required Courses by Category
 
-### 1. Chemical Sciences
-
 -   [ ] Organic Chemistry I & II
 -   [ ] Biochemistry
-
-### 2. Biological Sciences
-
--   [ ] Genetics
--   [ ] Cell Biology
--   [ ] Anatomy and Physiology
 
 ## Recommended for Oncology/Cancer Biology
 
@@ -78,12 +70,9 @@ Use this section to track specific requirements from your target programs.
 
 | Priority | Course | Provider | Est. Cost | Target |
 |---------------|---------------|---------------|---------------|---------------|
-| 1 | Organic Chemistry I (retake) | UC San Diego | \$845 | Summer 2026 |
-| 2 | Biochemistry | UC San Diego | \$845 | Fall 2026 |
+| 1 | Organic Chemistry I (retake) | UC San Diego | \$845 | Fall 2026 |
+| 2 | Biochemistry | UC San Diego | \$845 | Winter 2027 |
 | 3 | Organic Chemistry II | UC San Diego | \$845 | Spring 2027 (if needed) |
-| 4 | Genetics | Portage/CC | \$600-900 | If required by program |
-| 5 | Cell Biology | Portage/CC | \$600-900 | If required by program |
-| 6 | Anatomy and Physiology | Portage/CC | \$600-900 | If required by program |
 
 **Total Estimated Investment**: \$1,690-4,735 (depending on program requirements)
 
