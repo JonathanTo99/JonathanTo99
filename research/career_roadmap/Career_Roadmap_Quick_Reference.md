@@ -18,7 +18,7 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 
 ------------------------------------------------------------------------
 
-## Affordable Online Course Providers
+## Affordable Online Course Provider
 
 ### UC San Diego Extension (Top Choice)
 
@@ -27,14 +27,6 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 -   **Pros**: Regionally accredited, widely accepted by PhD programs
 -   **Schedule**: Asynchronous with flexible deadlines (10-12 weeks per course)
 -   **Website**: [extendedstudies.ucsd.edu](https://extendedstudies.ucsd.edu)
-
-### Utah Community Colleges (SLCC)
-
--   **Courses**: Most science and math prerequisites
--   **Cost**: \~\$150-400 per credit hour (in-state rates available)
--   **Pros**: Universally accepted credits, affordable
--   **Schedule**: Semester-based, evening/async options available
--   **Website**: [slcc.edu](https://slcc.edu)
 
 ------------------------------------------------------------------------
 
