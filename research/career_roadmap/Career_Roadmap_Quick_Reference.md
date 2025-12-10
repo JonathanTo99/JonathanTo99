@@ -18,9 +18,7 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 
 ------------------------------------------------------------------------
 
-## Affordable Online Course Provider
-
-### UC San Diego Extension (Top Choice)
+## Affordable Online Course Provider - UC San Diego Extension (Top Choice)
 
 -   **Courses**: Organic Chemistry I & II, Biochemistry
 -   **Cost**: \$845 per course (lecture only, 4.5 units each)
@@ -68,14 +66,11 @@ Use this section to track specific requirements from your target programs.
 
 **Total Estimated Investment**: $1,690-2,535 (depending on program requirements)
 
-**Note**: Math courses (Statistics, Calculus, Linear Algebra) are NOT needed - they're covered by the MS program and not required for admission.
-
 ------------------------------------------------------------------------
 
 ## Notes
 
--   All courses should be taken **after starting full-time work** (April 2026+)
--   Prioritize chemistry courses as they are most commonly required
+-   All courses should be taken **after starting full-time work** (May 2026+)
 -   Email admissions at target programs to confirm prerequisite requirements
 -   Request official transcripts after completion for PhD applications
 
@@ -111,25 +106,9 @@ Use this section to track specific requirements from your target programs.
 
 ### Employment Strategy: Research Associate / Lab Technician
 
-**Target Employers** (Utah-based): - **Biotech**: ARUP Laboratories, Myriad Genetics, Recursion Pharmaceuticals - **University**: University of Utah core facilities, Huntsman Cancer Institute - **Research**: Contract research organizations (CROs) - **Salary range**: \$50,000-65,000
+**Target Employers** (Utah-based): - **Biotech**: ARUP Laboratories, Myriad Genetics, Recursion Pharmaceuticals - **University**: University of Utah core facilities, Huntsman Cancer Institute - **Research**: Contract research organizations (CROs) - **Salary range**: \$55,000-70,000
 
 **Key Objectives**: - Gain hands-on laboratory experience (molecular biology, cell culture, assays) - Build relationships with supervisors for recommendation letters - Maintain consistent schedule for evening/weekend coursework
-
-### Chemistry Prerequisites (Primary Focus)
-
-**Priority 1** (Summer 2026): - \[ \] Retake Organic Chemistry 1 (UC San Diego Extended Studies) - \$845 - \[ \] Goal: B+ or higher to replace D grade
-
-**Priority 2** (Fall 2026): - \[ \] Complete Biochemistry (UC San Diego Extended Studies) - \$845
-
-**Priority 3** (Spring 2027, if needed): - \[ \] Organic Chemistry 2 (UC San Diego Extended Studies) - \$845 (check target PhD program requirements)
-
-**Total Chemistry Investment**: \$1,690-2,535
-
-### Additional Prerequisites (As Required by Target Programs)
-
-**Biological Sciences**: - \[ \] Genetics (Portage/CC) - \$600-900 - \[ \] Cell Biology (Portage/CC) - \$600-900 - \[ \] Anatomy and Physiology (Portage/CC) - \$600-900
-
-**Note**: Mathematical courses (Statistics, Calculus, Linear Algebra) are covered by the MS program and are NOT required for MS admission. Skip these to save \$1,600-2,400.
 
 ### Self-Study & Online Courses
 
@@ -141,9 +120,9 @@ Use this section to track specific requirements from your target programs.
 
 ### Financial Tracking (Phase 1)
 
--   **Income**: \$50,000-65,000 annual salary
--   **Expenses**: Chemistry courses (\$1,690-2,535), Additional prerequisites (\$1,000-4,000), Coursera (\$600-1,200)
--   **Goal**: Save \$15,000-20,000 for MS program
+-   **Income**: \$55,000-70,000 annual salary
+-   **Expenses**: Chemistry courses (\$1,690-2,535), Coursera (\$200-300)
+-   **Goal**: Save \$30,000-35,000 for MS program
 
 ------------------------------------------------------------------------
 
@@ -181,8 +160,8 @@ Use this section to track specific requirements from your target programs.
 
 ### Financial Tracking (Phase 2)
 
--   **Income**: \$50,000-65,000 annual salary (with raises)
--   **Expenses**: MS tuition (\$7,500/year)
+-   **Income**: \$55,000-70,000 annual salary (with raises)
+-   **Expenses**: MS tuition (\$15,000/year)
 -   **Goal**: Save additional funds for PhD relocation
 
 ------------------------------------------------------------------------
@@ -290,21 +269,18 @@ Use this section to track specific requirements from your target programs.
 ### Total Education Investment
 
 -   Chemistry Prerequisites (UCSD): \$1,690-2,535
--   Additional Prerequisites (Portage/CC): \$1,000-4,000
--   Coursera Specializations: \$1,200-2,000
--   MS Translational Bioinformatics (Utah): \$24,000-30,000
--   Bioinformatics Self-Study: \$600-1,200
--   PhD: \$0 (fully funded)
--   **TOTAL: \~\$19,490-24,735** (spread over 4 years)
+-   Coursera Specializations: \$200-300
+-   MS Translational Bioinformatics (Utah): \$30,000-35,000
+-   **TOTAL: \~\$30,490-35,735** (spread over 4 years)
 
 ### Income During Training
 
--   Lab Work (2026-2030): \$45,000-65,000/year (with raises)
--   PhD Stipend (2030-2035/36): \$40,000-45,000/year
+-   Lab Work (2026-2030): \$55,000-70,000/year (with raises)
+-   PhD Stipend (2030-2035/36): \$45,000-55,000/year
 
 ### Savings Goals
 
--   Phase 1: Save \$15,000-20,000 for MS
+-   Phase 1: Save \$30,000-35,000 for MS
 -   Phase 2: Save additional funds for PhD relocation
 
 ------------------------------------------------------------------------
