@@ -21,7 +21,7 @@
     ],
     "syncSettings.repository": {
         "type": "git",
-        "path": "c:\\Backup\\GitHub\\Jonathans-Personal-Repo"
+        "path": "c:\\GitHub\\JonathanTo99"
     },
     "redhat.telemetry.enabled": false,
     "syncSettings.hooks.postDownload": "",
