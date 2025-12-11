@@ -13,7 +13,7 @@
         "upload": "0 */4 * * *"  // Upload every 4 hours for backup
     },
     "gitlens.ai.model": "vscode",
-    "gitlens.ai.vscode.model": "copilot:ClaudeOpus4.5",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
     "window.newWindowProfile": "Default",
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
@@ -24,5 +24,7 @@
         "path": "c:\\Backup\\GitHub\\Jonathans-Personal-Repo"
     },
     "redhat.telemetry.enabled": false,
-    "syncSettings.hooks.postDownload": ""
+    "syncSettings.hooks.postDownload": "",
+    "window.menuBarVisibility": "compact",
+    "workbench.activityBar.location": "top"
 }

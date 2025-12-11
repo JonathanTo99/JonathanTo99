@@ -1,9 +1,14 @@
+eamodio.gitlens: '{"gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"community","name":"GitLens
+  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2025-11-29T22:10:07.119Z"},"effective":{"id":"community","name":"GitLens
+  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2025-11-29T22:10:07.119Z"}},"state":0}},"gitlens:version":"17.7.1","gitlens:synced:version":"17.7.1","gitlens:usages":{"homeView:shown":{"count":3,"firstUsedAt":1764454281461,"lastUsedAt":1764454908079},"fileHistoryView:shown":{"count":2,"firstUsedAt":1764454283423,"lastUsedAt":1764454864687},"searchAndCompareView:shown":{"count":2,"firstUsedAt":1764454283424,"lastUsedAt":1764454864690},"lineHistoryView:shown":{"count":3,"firstUsedAt":1764454672448,"lastUsedAt":1764454864685},"timelineView:shown":{"count":2,"firstUsedAt":1764454681377,"lastUsedAt":1764454864366},"command:gitlens.ai.switchProvider:executed":{"count":4,"firstUsedAt":1764454714210,"lastUsedAt":1765263149743},"command:gitlens.plus.cloudIntegrations.connect:executed":{"count":1,"firstUsedAt":1764454716569,"lastUsedAt":1764454716569},"command:gitlens.openWalkthrough:executed":{"count":1,"firstUsedAt":1764454781979,"lastUsedAt":1764454781979},"command:gitlens.walkthrough.showHomeView:executed":{"count":2,"firstUsedAt":1764454820149,"lastUsedAt":1764454822632},"command:gitlens.showHomeView:executed":{"count":2,"firstUsedAt":1764454820149,"lastUsedAt":1764454822633},"commitDetailsView:shown":{"count":1,"firstUsedAt":1764454864336,"lastUsedAt":1764454864336},"command:gitlens.home.switchToBranch:executed":{"count":1,"firstUsedAt":1765263168783,"lastUsedAt":1765263168783},"command:gitlens.gitCommands:executed":{"count":1,"firstUsedAt":1765263168784,"lastUsedAt":1765263168784},"command:gitlens.views.scm.grouped.welcome.dismiss:executed":{"count":1,"firstUsedAt":1765263202438,"lastUsedAt":1765263202438},"commitsView:shown":{"count":10,"firstUsedAt":1765263202726,"lastUsedAt":1765346165434},"command:gitlens.diffWithPrevious:views:executed":{"count":1,"firstUsedAt":1765263221297,"lastUsedAt":1765263221297},"command:gitlens.diffWith:executed":{"count":1,"firstUsedAt":1765263221298,"lastUsedAt":1765263221298},"command:gitlens.restore.file:views:executed":{"count":1,"firstUsedAt":1765263253066,"lastUsedAt":1765263253066},"command:gitlens.key.right:executed":{"count":7,"firstUsedAt":1765263288078,"lastUsedAt":1765263402646}},"gitlens:repoVisibility":[["c:/Obsidian
+  Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
+  Tracy/BYU-Core-MS-Lab",{"visibility":"public","timestamp":1764454629834,"remotesHash":"github.com/MSCoreLab/BYU-Core-MS-Lab"}],["c:/GitHub/BYU-Core-MS-Lab",{"visibility":"public","timestamp":1765263074173,"remotesHash":"github.com/MSCoreLab/BYU-Core-MS-Lab"}],["c:/GitHub/JonathanTo99",{"visibility":"public","timestamp":1765263074174,"remotesHash":"github.com/JonathanTo99/JonathanTo99"}]],"gitlens:home:sections:collapsed":["newHomePreview"],"gitlens:views:scm:grouped:welcome:dismissed":true}'
 GitHub.vscode-pull-request-github: '{"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true,"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"]}'
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ms-toolsai.jupyter: '{"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/Jonathan%20To/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","13bcc98f751425a41ab024a75cad5a87e0c9e826ecd9e9edc2a150171b5471b8#ipykernel":true,"CONDA_INFORMATION_CACHE":{"version":"25.11.0","file":"c:\\Users\\Jonathan
   To\\miniconda3\\Scripts\\conda.exe","fileHash":"9ea8453d560e31cd4797249a634673fe41796aa0a241a87184921f52a72c7b7ee9fb7b8345b41d832d49fed82354feb5e1f896d7b1b75e5fbfdd24b5cba157a0"}}'
 quarto.quarto: '{"visualModeConfirmed":true}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":13}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -19,8 +24,47 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
-  '0'\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-ic\
-  on\"},\"name\":\"Run and
+  '0'\"},{\"when\":\"!config.gitlens.views.scm.grouped.views.repositories &&
+  !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:repositories\"},{\"when\":\"!config.gitlens.\
+  views.scm.grouped.views.commits && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:commits\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.branches && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:branches\"},{\"when\":\"!config.gitlens.view\
+  s.scm.grouped.views.remotes && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:remotes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.stashes && !gitlens:disabled && !gitlens:hasVirtualFolders
+  &&
+  !gitlens:views:scm:grouped:views:stashes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.tags && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:tags\"},{\"when\":\"!config.gitlens.views.sc\
+  m.grouped.views.worktrees && !gitlens:disabled && !gitlens:hasVirtualFolders
+  && !gitlens:plus:disabled &&
+  !gitlens:views:scm:grouped:views:worktrees\"},{\"when\":\"!config.gitlens.vie\
+  ws.scm.grouped.views.contributors && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:contributors\"},{\"when\":\"config.gitlens.v\
+  iews.scm.grouped.views.branches && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.commits && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.contributors && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.launchpad && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.remotes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.repositories && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.searchAndCompare && !gitlens:disabled
+  || config.gitlens.views.scm.grouped.views.stashes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.tags && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.worktrees && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:branches && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:commits && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:contributors && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:launchpad && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:remotes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:repositories && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:searchAndCompare && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:stashes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:tags && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:worktrees &&
+  !gitlens:disabled\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\
+  \"run-view-icon\"},\"name\":\"Run and
   Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
   'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"debugUx ==
@@ -81,9 +125,10 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"chat-sessions-icon\",\"description\":\"Icon for Agent Sessions
   View\",\"defaults\":{\"id\":\"comment-discussion-sparkle\"}},\"name\":\"Agent
   Sessions\",\"isBuiltin\":true,\"views\":[{\"when\":\"false\"},{\"when\":\"fal\
-  se\"},{\"when\":\"false\"}]},{\"id\":\"workbench.view.extension.test\",\"them\
-  eIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\
-  \"views\":[{\"when\":\"testing.providerCount >
+  se\"},{\"when\":\"false\"},{\"when\":\"false\"},{\"when\":\"false\"},{\"when\
+  \":\"false\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\
+  \":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"\
+  when\":\"testing.providerCount >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.copilot-chat\",\"iconUrl\":{\"$mid\":1,\"path\":\"/c:/Program
   Files/Positron/resources/app/extensions/positron-copilot-chat/assets/debug-ic\
@@ -114,15 +159,40 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   !github:revertPullRequest\"},{\"when\":\"github:focusedReview &&
   github:inReviewMode && !github:createPullRequest && !github:revertPullRequest
   && github:activePRCount <= 1\"},{\"when\":\"github:focusedReview &&
-  !github:stateValidated\"}]},{\"id\":\"workbench.view.extension.posit-publisher\
-  \",\"themeIcon\":{\"id\":\"posit-publisher-publish\"},\"name\":\"Posit
+  !github:stateValidated\"}]},{\"id\":\"workbench.view.extension.jupyter\",\"th\
+  emeIcon\":{\"id\":\"notebook\"},\"name\":\"Jupyter\",\"isBuiltin\":false,\"vi\
+  ews\":[]},{\"id\":\"workbench.view.extension.posit-publisher\",\"themeIcon\":{\
+  \"id\":\"posit-publisher-publish\"},\"name\":\"Posit
   Publisher\",\"isBuiltin\":false,\"views\":[{\"when\":\"isWorkspaceTrusted &&
   workbenchState == 'empty' || isWorkspaceTrusted && workbenchState ==
   'workspace' || isWorkspaceTrusted && posit.publish.state == 'uninitialized' &&
   workbenchState == 'folder'\"},{\"when\":\"isWorkspaceTrusted &&
   posit.publish.state == 'initialized' && workbenchState ==
-  'folder'\"},{\"when\":\"!isWorkspaceTrusted\"}]}]"
-workbench.activityBar.location: default
+  'folder'\"},{\"when\":\"!isWorkspaceTrusted\"}]},{\"id\":\"workbench.view.ext\
+  ension.gitlens\",\"themeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\
+  \",\"isBuiltin\":false,\"views\":[{},{\"when\":\"!config.gitlens.views.scm.gr\
+  ouped.views.launchpad &&
+  !gitlens:views:scm:grouped:views:launchpad\"},{\"when\":\"config.gitlens.clou\
+  dPatches.enabled && gitlens:gk:organization:drafts:enabled &&
+  !gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"},{\"when\":\"!gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.gitlensInspect\",\
+  \"themeIcon\":{\"id\":\"gitlens-gitlens-inspect\"},\"name\":\"GitLens
+  Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
+  when\":\"gitlens:views:pullRequest:visible &&
+  !gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!config.gitlens.views.scm.grouped.v\
+  iews.fileHistory && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:fileHistory\"},{\"when\":\"!gitlens:disabled
+  &&
+  !gitlens:plus:disabled\"},{\"when\":\"!config.gitlens.views.scm.grouped.views\
+  .searchAndCompare && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:searchAndCompare\"}]},{\"id\":\"workbench.vi\
+  ew.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"gitlens-cloud-patch\"},\"\
+  name\":\"GitLens
+  Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
+  s.enabled && gitlens:views:patchDetails:mode && !gitlens:untrusted\"}]}]"
+workbench.activityBar.location: top
 workbench.auxiliaryBar.empty: "false"
 workbench.auxiliaryBar.lastNonMaximizedSize: "295"
 workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.positronSession","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.positronConnections","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.positronHelp","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.positronPreview","pinned":true,"visible":false,"order":3},{"id":"workbench.viewContainer.agentSessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.positron-connections","pinned":true,"visible":false,"order":6}]'
@@ -145,15 +215,15 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.panel.positronS\
   vg\",\"scheme\":\"file\"},\"name\":\"Connections\",\"isBuiltin\":false,\"views\
   \":[{\"when\":\"positron-connections.connectionsEnabled\"}]}]"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["r",true],["instructions",true],["properties",true],["yaml",true],["jsonc",true],["pip-requirements",true],["ignore",true],["markdown",true],["plaintext",true],["git-commit",true],["python",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["jsonc",true],["html",true],["css",true],["typescriptreact",true],["typescript",true],["ignore",true],["powershell",true],["pip-requirements",true],["git-commit",true],["python",true],["plaintext",true],["markdown",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":true},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
-workbench.panel.lastNonMaximizedHeight: "217"
+workbench.panel.lastNonMaximizedHeight: "208"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.positronConsole","pinned":true,"visible":false,"order":1},{"id":"terminal","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":4},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.posit-publisher-logs","pinned":true,"visible":false,"order":7},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.positronConsole","pinned":true,"visible":false,"order":1},{"id":"terminal","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":4},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.posit-publisher-logs","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4}]'
 workbench.panel.placeholderPanels: "[{\"id\":\"workbench.panel.positronConsole\
   \",\"themeIcon\":{\"id\":\"positron-console-view-icon\"},\"name\":\"Console\",\
   \"isBuiltin\":true,\"views\":[{}]},{\"id\":\"terminal\",\"themeIcon\":{\"id\":\
@@ -174,8 +244,12 @@ workbench.panel.placeholderPanels: "[{\"id\":\"workbench.panel.positronConsole\
   \":\"isWorkspaceTrusted && posit.publish.state == 'initialized' &&
   posit.publisher.homeView.userHasInitiatedDeploymentOperation == 'true' &&
   workbenchState ==
-  'folder'\"}]},{\"id\":\"refactorPreview\",\"themeIcon\":{\"id\":\"refactor-pr\
-  eview-view-icon\"},\"name\":\"Refactor
+  'folder'\"}]},{\"id\":\"workbench.view.extension.gitlensPanel\",\"themeIcon\"\
+  :{\"id\":\"gitlens-graph\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\
+  \":[{\"when\":\"!gitlens:disabled &&
+  !gitlens:plus:disabled\"},{\"when\":\"!gitlens:disabled &&
+  !gitlens:plus:disabled\"}]},{\"id\":\"refactorPreview\",\"themeIcon\":{\"id\":\
+  \"refactor-preview-view-icon\"},\"name\":\"Refactor
   Preview\",\"isBuiltin\":true,\"views\":[{\"when\":\"refactorPreview.enabled\"\
   }]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer\
   -view-icon\"},\"name\":\"Remote
@@ -202,7 +276,7 @@ workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","is
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"wslTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "19"
+workbench.views.extensions.installed.size: "20"
 workbench.welcomePage.hiddenCategories: '["ms-python.python#positron.migrateFromVSCode","positron.positron-r#positron.r.migrateFromRStudio","eamodio.gitlens#welcome"]'
 workbench.welcomePage.walkthroughMetadata: '[["ms-python.python#pythonWelcome",{"firstSeen":1764392701316,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1764392701316,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-python.python#positron.migrateFromVSCode",{"firstSeen":1764392701316,"stepIDs":["migrateFromVSCode.panes","migrateFromVSCode.interpreterManagement","migrateFromVSCode.bundledExtensions","migrateFromVSCode.bundleIpykernel","migrateFromVSCode.autoReload"],"manaullyOpened":false}],["positron.positron-r#positron.r.migrateFromRStudio",{"firstSeen":1764392701316,"stepIDs":["positron.r.migrateFromRStudio.panesAndUI","positron.r.migrateFromRStudio.keybindings","positron.r.migrateFromRStudio.workspaces","positron.r.migrateFromRStudio.formatting"],"manaullyOpened":false}],["vscode.typescript-language-features#tempNodejsWelcome",{"firstSeen":1764392701316,"stepIDs":[],"manaullyOpened":false}],["posit.publisher#posit.publisher.walkthrough.gettingStarted",{"firstSeen":1764392716127,"stepIDs":["posit.publisher.walkthrough.gettingStarted.openProject","posit.publisher.walkthrough.gettingStarted.activateExtension","posit.publisher.walkthrough.gettingStarted.createDeployment","posit.publisher.walkthrough.gettingStarted.editConfig","posit.publisher.walkthrough.gettingStarted.publishContent","posit.publisher.walkthrough.gettingStarted.accessContent"],"manaullyOpened":false}],["quarto.quarto#quarto",{"firstSeen":1764392716238,"stepIDs":["install","create","render","run-cell","equation","learn-more"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1764392716284,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1764454782015,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations","ai-features"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'

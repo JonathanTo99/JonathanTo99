@@ -276,7 +276,7 @@ Use this section to track specific requirements from your target programs.
 ### Income During Training
 
 -   Lab Work (2026-2030): \$55,000-70,000/year (with raises)
--   PhD Stipend (2030-2035/36): \$45,000-55,000/year
+-   PhD Stipend (2030-2035/36): \$40,000-50,000/year
 
 ### Savings Goals
 
