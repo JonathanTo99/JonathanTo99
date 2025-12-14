@@ -64,7 +64,7 @@ Use this section to track specific requirements from your target programs.
 | 2 | Biochemistry | UC San Diego | \$845 | Winter 2027 |
 | 3 | Organic Chemistry II | UC San Diego | \$845 | Spring 2027 (if needed) |
 
-**Total Estimated Investment**: $1,690-2,535 (depending on program requirements)
+**Total Estimated Investment**: \$1,690-2,535 (depending on program requirements)
 
 ------------------------------------------------------------------------
 
@@ -288,7 +288,7 @@ Use this section to track specific requirements from your target programs.
 ## MILESTONE TIMELINE
 
 | Age | Year | Key Milestones |
-|---------------|---------------|------------------------------------------|
+|-----------------|-----------------|---------------------------------------|
 | 26 | Apr 2026 | Graduate BYU, Start industry lab job |
 | 27-28 | 2026-2027 | Complete Ochem 1 + Biochemistry |
 | 29-30 | 2028-2029 | MS Translational Bioinformatics (Utah) part-time while working |
