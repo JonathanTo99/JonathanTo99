@@ -19,12 +19,19 @@
     "git.enableSmartCommit": true,
     "syncSettings.additionalFiles": [
     ],
-    "syncSettings.repository": {
-        "type": "git",
-        "path": "c:\\GitHub\\JonathanTo99"
-    },
     "redhat.telemetry.enabled": false,
     "syncSettings.hooks.postDownload": "",
-    "window.menuBarVisibility": "compact",
-    "workbench.activityBar.location": "top"
+    "workbench.activityBar.location": "top", 
+    "latex-workshop.view.pdf.invert": 1.0,
+    "workbench.editor.openPositioning": "last",
+    "workbench.tree.indent": 10,
+    "workbench.editor.enablePreview": false,
+    "workbench.statusBar.visible": false,
+    "workbench.topActionBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "syncSettings.ignoredSettings": [
+        
+    ],
+    
 }
+

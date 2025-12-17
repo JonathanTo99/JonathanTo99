@@ -1,9 +1,7 @@
 builtin:
   disabled:
     - vscode.r
-disabled:
-  - id: ms-pyright.pyright
-    uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
+disabled: []
 enabled:
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
@@ -13,6 +11,8 @@ enabled:
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: James-Yu.latex-workshop
+    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: meta.pyrefly
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
   - id: ms-python.debugpy
@@ -37,7 +37,5 @@ enabled:
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
-  - id: tomoki1207.pdf
-    uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
