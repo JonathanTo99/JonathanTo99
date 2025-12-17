@@ -37,5 +37,9 @@ enabled:
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: yzane.markdown-pdf
+    uuid: f015bc3c-a098-4245-8765-615e002e09ab
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

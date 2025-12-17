@@ -288,7 +288,7 @@ Use this section to track specific requirements from your target programs.
 ## MILESTONE TIMELINE
 
 | Age | Year | Key Milestones |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|-------------------------------------|
 | 26 | Apr 2026 | Graduate BYU, Start industry lab job |
 | 27-28 | 2026-2027 | Complete Ochem 1 + Biochemistry |
 | 29-30 | 2028-2029 | MS Translational Bioinformatics (Utah) part-time while working |

@@ -32,6 +32,12 @@
     "syncSettings.ignoredSettings": [
         
     ],
+    "workbench.editor.autoLockGroups": {
+        "workbench.editor.positronNotebook": true,
+        "jupyter-notebook": true,
+        "latex-workshop-pdf-hook": true,
+        "workbench.editor.positronDataExplorer": true
+    },
     
 }
 
