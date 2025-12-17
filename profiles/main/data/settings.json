@@ -38,6 +38,12 @@
         "latex-workshop-pdf-hook": true,
         "workbench.editor.positronDataExplorer": true
     },
-    
+    "anki.md.insertNewCardID": true,
+    "anki.md.updateCards": true,
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": "on"
+        }
+    }
 }
 
