@@ -1,7 +1,9 @@
 builtin:
   disabled:
     - vscode.r
-disabled: []
+disabled:
+  - id: pomdtr.excalidraw-editor
+    uuid: 3dc917d8-e986-4abf-8159-6fc2233995bd
 enabled:
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00

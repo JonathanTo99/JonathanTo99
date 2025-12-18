@@ -26,8 +26,6 @@
     "workbench.editor.openPositioning": "last",
     "workbench.tree.indent": 10,
     "workbench.editor.enablePreview": false,
-    "workbench.statusBar.visible": false,
-    "workbench.topActionBar.visible": false,
     "breadcrumbs.enabled": false,
     "syncSettings.ignoredSettings": [
         
@@ -44,6 +42,10 @@
         "editor.quickSuggestions": {
             "other": "on"
         }
-    }
+    },
+    "latex-workshop.view.pdf.zoom": "page-width",
+    "workbench.topActionBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "excalidraw.theme": "auto"
 }
 
