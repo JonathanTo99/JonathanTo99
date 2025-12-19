@@ -1,9 +1,7 @@
 builtin:
   disabled:
     - vscode.r
-disabled:
-  - id: pomdtr.excalidraw-editor
-    uuid: 3dc917d8-e986-4abf-8159-6fc2233995bd
+disabled: []
 enabled:
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
@@ -15,10 +13,6 @@ enabled:
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
-  - id: jasew.anki
-    uuid: 58767951-324b-4078-af31-9aba38f0c189
-  - id: mblode.zotero
-    uuid: 6a20265e-b6b1-4f36-ab5b-edfdd44be535
   - id: meta.pyrefly
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
   - id: ms-python.debugpy
@@ -43,8 +37,6 @@ enabled:
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
-  - id: yzane.markdown-pdf
-    uuid: f015bc3c-a098-4245-8765-615e002e09ab
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
