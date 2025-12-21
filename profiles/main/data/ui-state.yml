@@ -33,8 +33,8 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
   \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
   .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":47,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766184314575},\"command:gitlens\
+  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":50,\
+  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766280634784},\"command:gitlens\
   .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
   \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
   \":1,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1765263221298},\"command:gi\
@@ -324,7 +324,7 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.panel.positronS\
   vg\",\"scheme\":\"file\"},\"name\":\"Connections\",\"isBuiltin\":false,\"views\
   \":[{\"when\":\"positron-connections.connectionsEnabled\"}]}]"
 workbench.auxiliaryBar.size: "367"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["powershell",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["pip-requirements",true],["jsonc",true],["ignore",true],["python",true],["plaintext",true],["markdown",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["powershell",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["pip-requirements",true],["jsonc",true],["ignore",true],["plaintext",true],["markdown",true],["python",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":true},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"tabstronaut","isHidden":false},{"id":"tabstronautUngrouped","isHidden":false},{"id":"decks","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
