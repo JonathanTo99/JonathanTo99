@@ -46,6 +46,9 @@
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": true,
     "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
-    "git.openRepositoryInParentFolders": "never"
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.env.windows": {
+        "MY_VAR": "value"
+    }
 }
 

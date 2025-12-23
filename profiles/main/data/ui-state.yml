@@ -9,51 +9,49 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   account\":{\"id\":\"a7fbc762-b14f-4d30-b120-84f69b01a27a\",\"name\":\"Jonathan
   (ShueYi)
   To\",\"email\":\"toshuyi@gmail.com\",\"verified\":true,\"createdOn\":\"2022-0\
-  6-26T06:13:13.388Z\"},\"activeOrganization\":{\"id\":\"65c619f72cebeb1f589c04\
-  68\",\"name\":\"toshuyi's
-  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1766260873400}},\"gitl\
-  ens:version\":\"17.8.1\",\"gitlens:synced:version\":\"17.8.1\",\"gitlens:usag\
-  es\":{\"homeView:shown\":{\"count\":5,\"firstUsedAt\":1764454281461,\"lastUse\
-  dAt\":1766109937364},\"fileHistoryView:shown\":{\"count\":2,\"firstUsedAt\":1\
-  764454283423,\"lastUsedAt\":1764454864687},\"searchAndCompareView:shown\":{\"\
-  count\":2,\"firstUsedAt\":1764454283424,\"lastUsedAt\":1764454864690},\"lineH\
-  istoryView:shown\":{\"count\":3,\"firstUsedAt\":1764454672448,\"lastUsedAt\":\
-  1764454864685},\"timelineView:shown\":{\"count\":2,\"firstUsedAt\":1764454681\
-  377,\"lastUsedAt\":1764454864366},\"command:gitlens.ai.switchProvider:executed\
-  \":{\"count\":4,\"firstUsedAt\":1764454714210,\"lastUsedAt\":1765263149743},\
-  \"command:gitlens.plus.cloudIntegrations.connect:executed\":{\"count\":2,\"fi\
-  rstUsedAt\":1764454716569,\"lastUsedAt\":1766109996974},\"command:gitlens.ope\
-  nWalkthrough:executed\":{\"count\":6,\"firstUsedAt\":1764454781979,\"lastUsed\
-  At\":1766110134297},\"command:gitlens.walkthrough.showHomeView:executed\":{\"\
-  count\":2,\"firstUsedAt\":1764454820149,\"lastUsedAt\":1764454822632},\"comma\
-  nd:gitlens.showHomeView:executed\":{\"count\":2,\"firstUsedAt\":1764454820149,\
-  \"lastUsedAt\":1764454822633},\"commitDetailsView:shown\":{\"count\":1,\"firs\
-  tUsedAt\":1764454864336,\"lastUsedAt\":1764454864336},\"command:gitlens.home.\
-  switchToBranch:executed\":{\"count\":2,\"firstUsedAt\":1765263168783,\"lastUs\
-  edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
-  \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
-  .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":50,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766280634784},\"command:gitlens\
-  .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
-  \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
-  \":1,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1765263221298},\"command:gi\
-  tlens.restore.file:views:executed\":{\"count\":1,\"firstUsedAt\":176526325306\
-  6,\"lastUsedAt\":1765263253066},\"command:gitlens.key.right:executed\":{\"cou\
-  nt\":7,\"firstUsedAt\":1765263288078,\"lastUsedAt\":1765263402646},\"command:\
-  gitlens.toggleFileBlame:codelens:executed\":{\"count\":1,\"firstUsedAt\":1766\
-  098295074,\"lastUsedAt\":1766098295074},\"command:gitlens.key.escape:executed\
-  \":{\"count\":1,\"firstUsedAt\":1766098312345,\"lastUsedAt\":1766098312345},\
-  \"command:gitlens.connectRemoteProvider:executed\":{\"count\":1,\"firstUsedAt\
-  \":1766109772112,\"lastUsedAt\":1766109772112},\"command:gitlens.ai.mcp.insta\
-  ll:executed\":{\"count\":1,\"firstUsedAt\":1766109957287,\"lastUsedAt\":17661\
-  09957287},\"command:gitlens.plus.cloudIntegrations.manage:executed\":{\"count\
-  \":1,\"firstUsedAt\":1766110012081,\"lastUsedAt\":1766110012081},\"command:gi\
-  tlens.plus.login:executed\":{\"count\":2,\"firstUsedAt\":1766110079569,\"last\
-  UsedAt\":1766110099741},\"command:gitlens.ai.mcp.authCLI:executed\":{\"count\
-  \":1,\"firstUsedAt\":1766110109414,\"lastUsedAt\":1766110109414},\"home:walkt\
-  hrough:dismissed\":{\"count\":1,\"firstUsedAt\":1766110142126,\"lastUsedAt\":\
-  1766110142126}},\"gitlens:repoVisibility\":[[\"c:/Obsidian
+  6-26T06:13:13.388Z\"},\"lastValidatedAt\":1766446208274}},\"gitlens:version\":\
+  \"17.8.1\",\"gitlens:synced:version\":\"17.8.1\",\"gitlens:usages\":{\"homeVi\
+  ew:shown\":{\"count\":5,\"firstUsedAt\":1764454281461,\"lastUsedAt\":17661099\
+  37364},\"fileHistoryView:shown\":{\"count\":2,\"firstUsedAt\":1764454283423,\
+  \"lastUsedAt\":1764454864687},\"searchAndCompareView:shown\":{\"count\":2,\"f\
+  irstUsedAt\":1764454283424,\"lastUsedAt\":1764454864690},\"lineHistoryView:sh\
+  own\":{\"count\":3,\"firstUsedAt\":1764454672448,\"lastUsedAt\":1764454864685\
+  },\"timelineView:shown\":{\"count\":2,\"firstUsedAt\":1764454681377,\"lastUse\
+  dAt\":1764454864366},\"command:gitlens.ai.switchProvider:executed\":{\"count\
+  \":4,\"firstUsedAt\":1764454714210,\"lastUsedAt\":1765263149743},\"command:gi\
+  tlens.plus.cloudIntegrations.connect:executed\":{\"count\":2,\"firstUsedAt\":\
+  1764454716569,\"lastUsedAt\":1766109996974},\"command:gitlens.openWalkthrough\
+  :executed\":{\"count\":6,\"firstUsedAt\":1764454781979,\"lastUsedAt\":1766110\
+  134297},\"command:gitlens.walkthrough.showHomeView:executed\":{\"count\":2,\"\
+  firstUsedAt\":1764454820149,\"lastUsedAt\":1764454822632},\"command:gitlens.s\
+  howHomeView:executed\":{\"count\":2,\"firstUsedAt\":1764454820149,\"lastUsedAt\
+  \":1764454822633},\"commitDetailsView:shown\":{\"count\":1,\"firstUsedAt\":17\
+  64454864336,\"lastUsedAt\":1764454864336},\"command:gitlens.home.switchToBran\
+  ch:executed\":{\"count\":2,\"firstUsedAt\":1765263168783,\"lastUsedAt\":17661\
+  09972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\"firstUsedAt\
+  \":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens.views.scm.gr\
+  ouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":1765263202438,\
+  \"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":50,\"firstUsed\
+  At\":1765263202726,\"lastUsedAt\":1766280634784},\"command:gitlens.diffWithPr\
+  evious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\"lastUsed\
+  At\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\":1,\"firs\
+  tUsedAt\":1765263221298,\"lastUsedAt\":1765263221298},\"command:gitlens.resto\
+  re.file:views:executed\":{\"count\":1,\"firstUsedAt\":1765263253066,\"lastUse\
+  dAt\":1765263253066},\"command:gitlens.key.right:executed\":{\"count\":7,\"fi\
+  rstUsedAt\":1765263288078,\"lastUsedAt\":1765263402646},\"command:gitlens.tog\
+  gleFileBlame:codelens:executed\":{\"count\":1,\"firstUsedAt\":1766098295074,\
+  \"lastUsedAt\":1766098295074},\"command:gitlens.key.escape:executed\":{\"count\
+  \":1,\"firstUsedAt\":1766098312345,\"lastUsedAt\":1766098312345},\"command:gi\
+  tlens.connectRemoteProvider:executed\":{\"count\":1,\"firstUsedAt\":176610977\
+  2112,\"lastUsedAt\":1766109772112},\"command:gitlens.ai.mcp.install:executed\
+  \":{\"count\":1,\"firstUsedAt\":1766109957287,\"lastUsedAt\":1766109957287},\
+  \"command:gitlens.plus.cloudIntegrations.manage:executed\":{\"count\":1,\"fir\
+  stUsedAt\":1766110012081,\"lastUsedAt\":1766110012081},\"command:gitlens.plus\
+  .login:executed\":{\"count\":2,\"firstUsedAt\":1766110079569,\"lastUsedAt\":1\
+  766110099741},\"command:gitlens.ai.mcp.authCLI:executed\":{\"count\":1,\"firs\
+  tUsedAt\":1766110109414,\"lastUsedAt\":1766110109414},\"home:walkthrough:dism\
+  issed\":{\"count\":1,\"firstUsedAt\":1766110142126,\"lastUsedAt\":17661101421\
+  26}},\"gitlens:repoVisibility\":[[\"c:/Obsidian
   Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
   Tracy/BYU-Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":176445462983\
   4,\"remotesHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/GitHub/BYU\
@@ -68,7 +66,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   To\\\\AppData\\\\Roaming\\\\Positron\\\\User\\\\globalStorage\\\\eamodio.gitl\
   ens\",\"gitlens:gk:cli:corePath\":\"C:\\\\Users\\\\Jonathan
   To\\\\AppData\\\\Local\\\\GitKrakenCLI\",\"gitlens:gk:a7fbc762-b14f-4d30-b120\
-  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1766260873083,\"data\":{\"user\
+  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1766446177972,\"data\":{\"user\
   \":{\"id\":\"a7fbc762-b14f-4d30-b120-84f69b01a27a\",\"name\":\"Jonathan
   (ShueYi)
   To\",\"email\":\"toshuyi@gmail.com\",\"status\":\"activated\",\"createdDate\":\
@@ -80,7 +78,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   :08:28.639Z\",\"latestEndDate\":\"2026-01-02T02:08:28.639Z\",\"nextOptInDate\
   \":\"2026-04-02T00:00:00.000Z\",\"reactivationCount\":0}}},\"nextOptInDate\":\
   \"2026-04-02T00:00:00.000Z\"}},\"gitlens:gk:a7fbc762-b14f-4d30-b120-84f69b01a\
-  27a:organizations\":{\"v\":1,\"timestamp\":1766260873374,\"data\":[{\"id\":\"\
+  27a:organizations\":{\"v\":1,\"timestamp\":1766446271082,\"data\":[{\"id\":\"\
   65c619f72cebeb1f589c0468\",\"name\":\"toshuyi's
   organization\",\"role\":\"owner\"}]},\"gitlens:integrations:configured\":{\"g\
   ithub\":[{\"integrationId\":\"github\",\"expiresAt\":\"2059-12-28T15:45:32.92\
@@ -105,13 +103,13 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   nabled\":false,\"aiEnabled\":true,\"enforceAiProviders\":false,\"aiProviders\
   \":{},\"ssoEnabled\":false,\"ssoEnforced\":true,\"ssoProvision\":false,\"crea\
   tedAt\":\"2025-12-19T02:08:29.01609Z\",\"updatedAt\":\"2025-12-19T02:08:29.01\
-  609Z\",\"lastValidatedAt\":1766260873578}}}"
+  609Z\",\"lastValidatedAt\":1766446209106}}}"
 GitHub.vscode-pull-request-github: '{"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true,"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"]}'
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ms-toolsai.jupyter: '{"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/Jonathan%20To/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","13bcc98f751425a41ab024a75cad5a87e0c9e826ecd9e9edc2a150171b5471b8#ipykernel":true,"CONDA_INFORMATION_CACHE":{"version":"25.11.0","file":"c:\\Users\\Jonathan
   To\\miniconda3\\Scripts\\conda.exe","fileHash":"9ea8453d560e31cd4797249a634673fe41796aa0a241a87184921f52a72c7b7ee9fb7b8345b41d832d49fed82354feb5e1f896d7b1b75e5fbfdd24b5cba157a0"}}'
 quarto.quarto: '{"visualModeConfirmed":true}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":13},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":15}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":13},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.slidev","pinned":true,"visible":false,"order":18}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -297,10 +295,14 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   s.enabled && gitlens:views:patchDetails:mode &&
   !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.latex-workshop-act\
   ivitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/james-y\
-  u.latex-workshop-10.11.2-universal/icons/activity-bar.svg\",\"scheme\":\"file\
+  u.latex-workshop-10.12.0-universal/icons/activity-bar.svg\",\"scheme\":\"file\
   \"},\"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-works\
   hop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-worksh\
-  op:enabled\"}]}]"
+  op:enabled\"}]},{\"id\":\"workbench.view.extension.slidev\",\"iconUrl\":{\"$m\
+  id\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/antfu.slidev-52.11.1-universal/dist\
+  /res/logo-mono.svg\",\"scheme\":\"file\"},\"name\":\"Slidev\",\"isBuiltin\":f\
+  alse,\"views\":[{\"when\":\"slidev:enabled\"},{\"when\":\"slidev:enabled\"},{\
+  \"when\":\"slidev:enabled\"}]}]"
 workbench.activityBar.location: top
 workbench.auxiliaryBar.empty: "false"
 workbench.auxiliaryBar.lastNonMaximizedSize: "295"
@@ -324,7 +326,7 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.panel.positronS\
   vg\",\"scheme\":\"file\"},\"name\":\"Connections\",\"isBuiltin\":false,\"views\
   \":[{\"when\":\"positron-connections.connectionsEnabled\"}]}]"
 workbench.auxiliaryBar.size: "367"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["powershell",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["pip-requirements",true],["jsonc",true],["ignore",true],["plaintext",true],["markdown",true],["python",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["powershell",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["pip-requirements",true],["ignore",true],["markdown",true],["plaintext",true],["jsonc",true],["python",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":true},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"tabstronaut","isHidden":false},{"id":"tabstronautUngrouped","isHidden":false},{"id":"decks","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -388,7 +390,7 @@ workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","is
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"wslTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "20"
+workbench.views.extensions.installed.size: "21"
 workbench.welcomePage.hiddenCategories: '["ms-python.python#positron.migrateFromVSCode","positron.positron-r#positron.r.migrateFromRStudio","eamodio.gitlens#welcome"]'
 workbench.welcomePage.walkthroughMetadata: '[["ms-python.python#pythonWelcome",{"firstSeen":1764392701316,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1764392701316,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-python.python#positron.migrateFromVSCode",{"firstSeen":1764392701316,"stepIDs":["migrateFromVSCode.panes","migrateFromVSCode.interpreterManagement","migrateFromVSCode.bundledExtensions","migrateFromVSCode.bundleIpykernel","migrateFromVSCode.autoReload"],"manaullyOpened":false}],["positron.positron-r#positron.r.migrateFromRStudio",{"firstSeen":1764392701316,"stepIDs":["positron.r.migrateFromRStudio.panesAndUI","positron.r.migrateFromRStudio.keybindings","positron.r.migrateFromRStudio.workspaces","positron.r.migrateFromRStudio.formatting"],"manaullyOpened":false}],["vscode.typescript-language-features#tempNodejsWelcome",{"firstSeen":1764392701316,"stepIDs":[],"manaullyOpened":false}],["posit.publisher#posit.publisher.walkthrough.gettingStarted",{"firstSeen":1764392716127,"stepIDs":["posit.publisher.walkthrough.gettingStarted.openProject","posit.publisher.walkthrough.gettingStarted.activateExtension","posit.publisher.walkthrough.gettingStarted.createDeployment","posit.publisher.walkthrough.gettingStarted.editConfig","posit.publisher.walkthrough.gettingStarted.publishContent","posit.publisher.walkthrough.gettingStarted.accessContent"],"manaullyOpened":false}],["quarto.quarto#quarto",{"firstSeen":1764392716238,"stepIDs":["install","create","render","run-cell","equation","learn-more"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1764392716284,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1764454782015,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations","ai-features"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'
