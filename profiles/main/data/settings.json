@@ -49,6 +49,7 @@
     "git.openRepositoryInParentFolders": "never",
     "terminal.integrated.env.windows": {
         "MY_VAR": "value"
-    }
+    },
+    "geminicodeassist.project": "gen-lang-client-0026260549"
 }
 
