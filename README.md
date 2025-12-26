@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Jonathan To!
 
-```{=html}
-<!--
-**JonathanTo99/JonathanTo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-```
-
 ## 🔬 About Me
 
 I'm a microbiology student at BYU graduating in April 2026 with a passion for **oncolytic virotherapy** and translational cancer research. My goal is to bridge the gap between clinical diagnostics, computational biology, and cutting-edge cancer immunotherapy research to help develop more effective treatments for cancer patients.
