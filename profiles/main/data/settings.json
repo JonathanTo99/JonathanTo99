@@ -42,8 +42,6 @@
         }
     },
     "latex-workshop.view.pdf.zoom": "page-width",
-    "workbench.topActionBar.visible": false,
-    "workbench.statusBar.visible": false,
     "editor.minimap.enabled": true,
     "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
     "git.openRepositoryInParentFolders": "never",
