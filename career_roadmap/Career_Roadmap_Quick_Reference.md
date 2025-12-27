@@ -6,7 +6,7 @@ Classes that I will likely need to take as prerequisites for PhD programs.
 
 ## Required Courses by Category
 
--   [ ] Organic Chemistry I & II
+-   [ ] Organic Chemistry I & II 
 -   [ ] Biochemistry
 
 ## Recommended for Oncology/Cancer Biology
