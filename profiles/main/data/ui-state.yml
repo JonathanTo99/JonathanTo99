@@ -11,7 +11,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   To\",\"email\":\"toshuyi@gmail.com\",\"verified\":true,\"createdOn\":\"2022-0\
   6-26T06:13:13.388Z\"},\"activeOrganization\":{\"id\":\"65c619f72cebeb1f589c04\
   68\",\"name\":\"toshuyi's
-  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1766533446116}},\"gitl\
+  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1766781126954}},\"gitl\
   ens:version\":\"17.8.1\",\"gitlens:synced:version\":\"17.8.1\",\"gitlens:usag\
   es\":{\"homeView:shown\":{\"count\":5,\"firstUsedAt\":1764454281461,\"lastUse\
   dAt\":1766109937364},\"fileHistoryView:shown\":{\"count\":2,\"firstUsedAt\":1\
@@ -33,8 +33,8 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
   \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
   .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":50,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766280634784},\"command:gitlens\
+  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":51,\
+  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766779507054},\"command:gitlens\
   .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
   \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
   \":1,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1765263221298},\"command:gi\
@@ -68,7 +68,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   To\\\\AppData\\\\Roaming\\\\Positron\\\\User\\\\globalStorage\\\\eamodio.gitl\
   ens\",\"gitlens:gk:cli:corePath\":\"C:\\\\Users\\\\Jonathan
   To\\\\AppData\\\\Local\\\\GitKrakenCLI\",\"gitlens:gk:a7fbc762-b14f-4d30-b120\
-  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1766533445753,\"data\":{\"user\
+  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1766781126727,\"data\":{\"user\
   \":{\"id\":\"a7fbc762-b14f-4d30-b120-84f69b01a27a\",\"name\":\"Jonathan
   (ShueYi)
   To\",\"email\":\"toshuyi@gmail.com\",\"status\":\"activated\",\"createdDate\":\
@@ -80,7 +80,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   :08:28.639Z\",\"latestEndDate\":\"2026-01-02T02:08:28.639Z\",\"nextOptInDate\
   \":\"2026-04-02T00:00:00.000Z\",\"reactivationCount\":0}}},\"nextOptInDate\":\
   \"2026-04-02T00:00:00.000Z\"}},\"gitlens:gk:a7fbc762-b14f-4d30-b120-84f69b01a\
-  27a:organizations\":{\"v\":1,\"timestamp\":1766533446081,\"data\":[{\"id\":\"\
+  27a:organizations\":{\"v\":1,\"timestamp\":1766781126950,\"data\":[{\"id\":\"\
   65c619f72cebeb1f589c0468\",\"name\":\"toshuyi's
   organization\",\"role\":\"owner\"}]},\"gitlens:integrations:configured\":{\"g\
   ithub\":[{\"integrationId\":\"github\",\"expiresAt\":\"2059-12-28T15:45:32.92\
@@ -105,137 +105,13 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   nabled\":false,\"aiEnabled\":true,\"enforceAiProviders\":false,\"aiProviders\
   \":{},\"ssoEnabled\":false,\"ssoEnforced\":true,\"ssoProvision\":false,\"crea\
   tedAt\":\"2025-12-19T02:08:29.01609Z\",\"updatedAt\":\"2025-12-19T02:08:29.01\
-  609Z\",\"lastValidatedAt\":1766533446399}}}"
+  609Z\",\"lastValidatedAt\":1766781127211}}}"
 GitHub.vscode-pull-request-github: '{"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true,"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"]}'
-google.geminicodeassist: "{\"geminicodeassist.hasRunOnce\":true,\"geminicodeass\
-  ist.lastOpenedVersion\":\"2.64.0\",\"telemetry_setting_updated\":true,\"gemin\
-  icodeassist.survey.useractivity\":[1766534574782,1766767078168],\"CACHED_PROJ\
-  ECTS_MEMENTO_KEY_toshuyi@gmail.com\":[{\"projectNumber\":\"32849663325\",\"pr\
-  ojectId\":\"gen-lang-client-0026260549\",\"lifecycleState\":\"ACTIVE\",\"name\
-  \":\"Gemini
-  API\",\"labels\":{\"generative-language\":\"enabled\"},\"createTime\":\"2025-\
-  09-19T03:09:04.662006Z\"}],\"newChatIsAgent\":false,\"lastChatModeWasAgent\":\
-  true,\"geminiCodeAssist.chatSelectedModelConfigId\":\"chat-gemini-3-0-pro-pre\
-  view-paid-tier\",\"geminicodeassist.gemini3ProAnnouncementDismissed\":true,\"\
-  geminicodeassist.onboardingTipDismissed\":true,\"geminiCodeAssist.chatThreads\
-  \":{\"toshuyi@gmail.com\":{\"246f4edd-e284-11f0-91b4-207bd296cae8\":{\"id\":\
-  \"246f4edd-e284-11f0-91b4-207bd296cae8\",\"title\":\"How to fall in love with
-  programming as a visual, spatial and big-picture oriented
-  person?\",\"create_time\":\"2025-12-26T19:00:00.692Z\",\"update_time\":\"2025\
-  -12-26T19:00:00.692Z\",\"ideContextFileUris\":[],\"ideContextFolderUris\":[],\
-  \"additionalContext\":[],\"a2aTaskId\":\"d03d943c-1f30-41dd-acf6-5da33d4f4995\
-  \",\"selectedModelConfigId\":\"chat-gemini-3-0-pro-preview-paid-tier\",\"hist\
-  ory\":[{\"entity\":\"USER\",\"markdownText\":\"How to fall in love with
-  programming as a visual, spatial and big-picture oriented
-  person?\",\"ideContext\":{\"currentFile\":{\"path\":\"\"},\"otherFiles\":[],\
-  \"chatSectionId\":\"1\"},\"chatSectionId\":\"1\"},{\"traceId\":\"16d17731ea3a\
-  2802\",\"entity\":\"SYSTEM\",\"markdownText\":\"\",\"agentMessages\":[{\"thou\
-  ghtSummary\":{\"subject\":\"Exploring the Question's
-  Nuances\",\"description\":\"I'm now focusing on the user's learning style. The
-  \\\"visual, spatial, big-picture oriented\\\" description is key. I'm
-  considering approaches that leverage these strengths. Perhaps mapping out
-  program structure visually, or using analogies to real-world systems, will
-  resonate more deeply. This is a crucial element to
-  address.\"}},{\"thoughtSummary\":{\"subject\":\"Mapping Out
-  Strategies\",\"description\":\"Now, I'm digging into how to translate the
-  identified learning style into practical suggestions. Frontend web development
-  and game development are definitely at the top, offering instant visual
-  feedback. I'm exploring project ideas that emphasize visual output and offer
-  opportunities for spatial reasoning, such as designing interfaces or building
-  simple game mechanics. Focusing on projects that are instantly gratifying is
-  crucial.\"}},{\"thoughtSummary\":{\"subject\":\"Unpacking the Core
-  Components\",\"description\":\"I've outlined the user's primary question and
-  broke down their learning style. Now, I'm focusing on the \\\"how to fall in
-  love\\\" aspect. It seems that immediate, visible results and a sense of
-  accomplishment are crucial. Perhaps project-based learning with a strong
-  emphasis on the fun of creation is the best
-  approach.\"}},{\"thoughtSummary\":{\"subject\":\"Prioritizing a Holistic
-  Approach\",\"description\":\"I'm now prioritizing project-based learning with
-  immediate visual feedback. I've noted the importance of user interface design
-  and simple game mechanics. I will suggest starting with frontend web dev, game
-  dev, and data visualization. I'm focusing on providing project ideas,
-  emphasizing the joy of creation to nurture that love for
-  programming.\"}},{\"thoughtSummary\":{\"subject\":\"Crafting a Directive
-  Strategy\",\"description\":\"I'm now consolidating the advice into a
-  structured format. I'm focusing on providing a clear, actionable guide, and
-  organizing the suggestions under distinct categories. The goal is to provide a
-  path to a more engaging and fulfilling learning
-  experience.\"}},{\"thoughtSummary\":{\"subject\":\"Developing the Response
-  Structure\",\"description\":\"I'm presently building the answer's structure,
-  focusing on categories to address the user's needs. The categories will
-  include \\\"Choose the Right Domain,\\\" \\\"Embrace Visual Tools,\\\"
-  \\\"Focus on Projects,\\\" and \\\"Connect with the Physical World.\\\" I'll
-  ensure each is populated with actionable advice. The goal is a clear,
-  encouraging guide.\"}},{\"markdownText\":\"That's a fantastic question. Many
-  people think of programming as a purely logical, linear, and text-based
-  discipline, which can feel alienating to those who thrive on visual, spatial,
-  and big-picture thinking. However, your learning style is actually a
-  superpower in many areas of software development.\\n\\nThe key is to find the
-  right entry point where you can make the abstract tangible and see the whole
-  before getting lost in the parts.\\n\\nHere’s how you can fall in love with
-  programming by leaning into your strengths:\\n\\n### 1. Start with a Visual
-  and Interactive Field\\n\\nDon't start with abstract command-line tools or
-  backend data processing. Jump into something where you can *see* the results
-  of your code instantly.\\n\\n*   **Web Frontend Development (HTML, CSS, &
-  JavaScript):** This is the most direct path from code to visual result. You
-  change a line of CSS, and a color or shape changes. You write some JavaScript,
-  and an element animates on the screen.\\n    *   **Try it:** Go to a site like
-  [CodePen](https://codepen.io/pen/) and just start tinkering with one of the
-  examples. The live-update feedback loop is incredibly rewarding.\\n*   **Game
-  Development:** Modern game engines like **Godot** (very beginner-friendly) or
-  **Unity** are fundamentally spatial and visual. You are literally arranging
-  objects in a 2D or 3D space, defining their properties, and scripting their
-  interactions. It’s like building a dynamic diorama.\\n*   **Creative Coding &
-  Data Visualization:** This is where programming becomes an art
-  form.\\n    *   **p5.js** is a JavaScript library specifically designed for
-  artists and designers. You can create interactive animations, generative art,
-  and data visualizations with just a few lines of code. It’s an amazing way to
-  \\\"paint with code.\\\"\\n    *   **D3.js** (for web) or libraries in Python
-  like **Matplotlib** and **Seaborn** allow you to turn boring data into
-  beautiful, insightful charts and graphs. This connects the small details (data
-  points) to the big picture (the story the data tells).\\n\\n### 2. Embrace
-  \\\"Big Picture\\\" Tools and Concepts\\n\\nYour ability to see the whole
-  system is a massive advantage in software architecture.\\n\\n*   **Think in
-  Components:** Modern development (especially in web and mobile) is all about
-  building applications from reusable components (like LEGO bricks). Frameworks
-  like **React** or **Vue** for the web, or **SwiftUI** for iOS, are designed
-  around this visual, component-based model. You can visually assemble a user
-  interface from pieces, which feels very intuitive and
-  spatial.\\n*   **Whiteboard Everything:** Before you write code, draw it. Use
-  a whiteboard, a notebook, or a tool like [Excalidraw](https://excalidraw.com/)
-  or [Miro](https://miro.com/). Map out how different parts of your application
-  will connect. How does the user login screen connect to the main dashboard?
-  How does the database talk to the user profile? This makes the architecture
-  tangible.\\n\\n### 3. Choose Projects, Not Just Problems\\n\\nA big-picture
-  thinker needs a \\\"why.\\\" Isolated coding exercises (like \\\"reverse a
-  string\\\") will feel pointless and boring.\\n\\n*   **Build Something You
-  Want:** Don't just follow tutorials blindly. Pick a small project that
-  motivates you.\\n    *   Want a personal website to showcase your art? Build
-  it.\\n    *   Love a certain video game? Try to recreate a single mechanic
-  from it.\\n    *   Have a tedious task at work? Write a small script to
-  automate it.\\n*   The project provides the big-picture context that makes
-  learning the small details worthwhile. Every function you write, every bug you
-  fix, is a step toward a visible, meaningful goal.\\n\\n### 4. Use Tools That
-  Enhance Visualization\\n\\n*   **Visual Debuggers:** Modern code editors like
-  **VS Code** have powerful debuggers. Instead of just reading code, you can set
-  a \\\"breakpoint\\\" to pause your program's execution. You can then step
-  through the code line-by-line and *watch* how variables change. It turns the
-  invisible logic into a visible, step-by-step animation.\\n*   **Jupyter
-  Notebooks:** If you're exploring Python (great for data visualization and
-  scripting), Jupyter notebooks are a game-changer. They allow you to mix code,
-  text, and visual outputs (like charts and images) in a single document,
-  creating a rich, narrative-driven coding experience.\\n\\nBy choosing a visual
-  domain, focusing on whole projects, and using tools that let you see your
-  code's impact, programming can shift from being a frustrating, abstract puzzle
-  into a powerful and expressive creative
-  medium.\"}],\"ideContext\":{\"currentFile\":{\"path\":\"\"},\"otherFiles\":[],\
-  \"chatSectionId\":\"1\"},\"chatSectionId\":\"1\",\"modelDisplayName\":\"gemin\
-  i-2.5-pro\",\"modelID\":\"gemini-2.5-pro\"}],\"version\":\"2.0\"}}}}"
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ms-toolsai.jupyter: '{"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/Jonathan%20To/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","13bcc98f751425a41ab024a75cad5a87e0c9e826ecd9e9edc2a150171b5471b8#ipykernel":true,"CONDA_INFORMATION_CACHE":{"version":"25.11.0","file":"c:\\Users\\Jonathan
   To\\miniconda3\\Scripts\\conda.exe","fileHash":"9ea8453d560e31cd4797249a634673fe41796aa0a241a87184921f52a72c7b7ee9fb7b8345b41d832d49fed82354feb5e1f896d7b1b75e5fbfdd24b5cba157a0"}}'
 quarto.quarto: '{"visualModeConfirmed":true}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.geminiChat","pinned":true,"visible":false,"order":19},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":14},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.slidev","pinned":true,"visible":false,"order":10}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":14},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.posit-publisher","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.slidev","pinned":true,"visible":false,"order":10}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -246,13 +122,8 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   ositron-assistant\"},\"name\":\"Chat\",\"isBuiltin\":true,\"views\":[{\"when\
   \":\"chatExtensionInvalid || chatPanelParticipantRegistered ||
   !chatSetupDisabled &&
-  !chatSetupHidden\"}]},{\"id\":\"workbench.view.extension.geminiChat\",\"iconU\
-  rl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/google.geminicodeassist-2\
-  .64.0-universal/fonts/material/characters/material-spark.svg\",\"scheme\":\"f\
-  ile\"},\"name\":\"Gemini Code
-  Assist\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.geminicodeassist.e\
-  nable\"}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-cont\
-  rol-view-icon\"},\"name\":\"Source
+  !chatSetupHidden\"}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"\
+  source-control-view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
@@ -522,7 +393,7 @@ workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","is
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"wslTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "22"
+workbench.views.extensions.installed.size: "21"
 workbench.welcomePage.hiddenCategories: '["ms-python.python#positron.migrateFromVSCode","positron.positron-r#positron.r.migrateFromRStudio","eamodio.gitlens#welcome"]'
 workbench.welcomePage.walkthroughMetadata: '[["ms-python.python#pythonWelcome",{"firstSeen":1764392701316,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1764392701316,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-python.python#positron.migrateFromVSCode",{"firstSeen":1764392701316,"stepIDs":["migrateFromVSCode.panes","migrateFromVSCode.interpreterManagement","migrateFromVSCode.bundledExtensions","migrateFromVSCode.bundleIpykernel","migrateFromVSCode.autoReload"],"manaullyOpened":false}],["positron.positron-r#positron.r.migrateFromRStudio",{"firstSeen":1764392701316,"stepIDs":["positron.r.migrateFromRStudio.panesAndUI","positron.r.migrateFromRStudio.keybindings","positron.r.migrateFromRStudio.workspaces","positron.r.migrateFromRStudio.formatting"],"manaullyOpened":false}],["vscode.typescript-language-features#tempNodejsWelcome",{"firstSeen":1764392701316,"stepIDs":[],"manaullyOpened":false}],["posit.publisher#posit.publisher.walkthrough.gettingStarted",{"firstSeen":1764392716127,"stepIDs":["posit.publisher.walkthrough.gettingStarted.openProject","posit.publisher.walkthrough.gettingStarted.activateExtension","posit.publisher.walkthrough.gettingStarted.createDeployment","posit.publisher.walkthrough.gettingStarted.editConfig","posit.publisher.walkthrough.gettingStarted.publishContent","posit.publisher.walkthrough.gettingStarted.accessContent"],"manaullyOpened":false}],["quarto.quarto#quarto",{"firstSeen":1764392716238,"stepIDs":["install","create","render","run-cell","equation","learn-more"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1764392716284,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1764454782015,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations","ai-features"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'
