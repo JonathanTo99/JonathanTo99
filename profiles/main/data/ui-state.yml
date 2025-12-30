@@ -33,8 +33,8 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
   \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
   .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":53,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1766878455073},\"command:gitlens\
+  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":56,\
+  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1767056931265},\"command:gitlens\
   .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
   \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
   \":1,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1765263221298},\"command:gi\
@@ -53,8 +53,10 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   UsedAt\":1766110099741},\"command:gitlens.ai.mcp.authCLI:executed\":{\"count\
   \":1,\"firstUsedAt\":1766110109414,\"lastUsedAt\":1766110109414},\"home:walkt\
   hrough:dismissed\":{\"count\":1,\"firstUsedAt\":1766110142126,\"lastUsedAt\":\
-  1766110142126}},\"gitlens:repoVisibility\":[[\"c:/Obsidian
-  Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
+  1766110142126},\"graphView:shown\":{\"count\":4,\"firstUsedAt\":1767052984852,\
+  \"lastUsedAt\":1767054142940},\"graphDetailsView:shown\":{\"count\":4,\"first\
+  UsedAt\":1767052984861,\"lastUsedAt\":1767054142947}},\"gitlens:repoVisibility\
+  \":[[\"c:/Obsidian Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
   Tracy/BYU-Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":176445462983\
   4,\"remotesHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/GitHub/BYU\
   -Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":1765263074173,\"remot\
@@ -328,41 +330,42 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.panel.positronS\
   vg\",\"scheme\":\"file\"},\"name\":\"Connections\",\"isBuiltin\":false,\"views\
   \":[{\"when\":\"positron-connections.connectionsEnabled\"}]}]"
 workbench.auxiliaryBar.size: "335"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["pip-requirements",true],["ignore",true],["jsonc",true],["powershell",true],["markdown",true],["python",true],["plaintext",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":true},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"tabstronaut","isHidden":false},{"id":"tabstronautUngrouped","isHidden":false},{"id":"decks","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["git-commit",true],["yaml",true],["latex",true],["bat",true],["ignore",true],["jsonc",true],["powershell",true],["plaintext",true],["pip-requirements",true],["markdown",true],["python",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"tabstronaut","isHidden":false},{"id":"tabstronautUngrouped","isHidden":false},{"id":"decks","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
-workbench.panel.lastNonMaximizedHeight: "201"
+workbench.panel.lastNonMaximizedHeight: "218"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.positronConsole","pinned":true,"visible":false,"order":1},{"id":"terminal","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":4},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.posit-publisher-logs","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4}]'
-workbench.panel.placeholderPanels: "[{\"id\":\"workbench.panel.positronConsole\
-  \",\"themeIcon\":{\"id\":\"positron-console-view-icon\"},\"name\":\"Console\",\
-  \"isBuiltin\":true,\"views\":[{}]},{\"id\":\"terminal\",\"themeIcon\":{\"id\":\
-  \"terminal-view-icon\"},\"name\":\"Terminal\",\"isBuiltin\":true,\"views\":[{\
-  }]},{\"id\":\"workbench.panel.markers\",\"themeIcon\":{\"id\":\"markers-view-\
-  icon\"},\"name\":\"Problems\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"wo\
-  rkbench.panel.testResults\",\"themeIcon\":{\"id\":\"test-results-icon\"},\"na\
-  me\":\"Test
-  Results\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.hasAnyResults\"}]\
-  },{\"id\":\"workbench.panel.output\",\"themeIcon\":{\"id\":\"output-view-icon\
-  \"},\"name\":\"Output\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"~remote.\
-  forwardedPortsContainer\",\"themeIcon\":{\"id\":\"ports-view-icon\"},\"name\":\
-  \"Ports\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.panel.repl\",\
-  \"themeIcon\":{\"id\":\"debug-console-view-icon\"},\"name\":\"Debug
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":3},{"id":"terminal","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.positronConsole","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":4},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.posit-publisher-logs","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4}]'
+workbench.panel.placeholderPanels: "[{\"id\":\"workbench.panel.markers\",\"them\
+  eIcon\":{\"id\":\"markers-view-icon\"},\"name\":\"Problems\",\"isBuiltin\":tr\
+  ue,\"views\":[{}]},{\"id\":\"terminal\",\"themeIcon\":{\"id\":\"terminal-view\
+  -icon\"},\"name\":\"Terminal\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"w\
+  orkbench.panel.positronConsole\",\"themeIcon\":{\"id\":\"positron-console-vie\
+  w-icon\"},\"name\":\"Console\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"w\
+  orkbench.panel.repl\",\"themeIcon\":{\"id\":\"debug-console-view-icon\"},\"na\
+  me\":\"Debug
   Console\",\"isBuiltin\":true,\"views\":[{\"when\":\"debuggersAvailable\"}]},{\
-  \"id\":\"workbench.view.extension.posit-publisher-logs\",\"themeIcon\":{\"id\
-  \":\"output\"},\"name\":\"Publisher\",\"isBuiltin\":false,\"views\":[{\"when\
-  \":\"isWorkspaceTrusted && posit.publish.state == 'initialized' &&
+  \"id\":\"workbench.panel.testResults\",\"themeIcon\":{\"id\":\"test-results-i\
+  con\"},\"name\":\"Test
+  Results\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.hasAnyResults\"}]\
+  },{\"id\":\"workbench.view.extension.gitlensPanel\",\"themeIcon\":{\"id\":\"g\
+  itlens-graph\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\":[{\"when\":\
+  \"!gitlens:disabled && !gitlens:plus:disabled\"},{\"when\":\"!gitlens:disabled
+  &&
+  !gitlens:plus:disabled\"}]},{\"id\":\"workbench.panel.output\",\"themeIcon\":{\
+  \"id\":\"output-view-icon\"},\"name\":\"Output\",\"isBuiltin\":true,\"views\"\
+  :[{}]},{\"id\":\"~remote.forwardedPortsContainer\",\"themeIcon\":{\"id\":\"po\
+  rts-view-icon\"},\"name\":\"Ports\",\"isBuiltin\":true,\"views\":[{}]},{\"id\
+  \":\"workbench.view.extension.posit-publisher-logs\",\"themeIcon\":{\"id\":\"\
+  output\"},\"name\":\"Publisher\",\"isBuiltin\":false,\"views\":[{\"when\":\"i\
+  sWorkspaceTrusted && posit.publish.state == 'initialized' &&
   posit.publisher.homeView.userHasInitiatedDeploymentOperation == 'true' &&
   workbenchState ==
-  'folder'\"}]},{\"id\":\"workbench.view.extension.gitlensPanel\",\"themeIcon\"\
-  :{\"id\":\"gitlens-graph\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\
-  \":[{\"when\":\"!gitlens:disabled &&
-  !gitlens:plus:disabled\"},{\"when\":\"!gitlens:disabled &&
-  !gitlens:plus:disabled\"}]},{\"id\":\"refactorPreview\",\"themeIcon\":{\"id\":\
-  \"refactor-preview-view-icon\"},\"name\":\"Refactor
+  'folder'\"}]},{\"id\":\"refactorPreview\",\"themeIcon\":{\"id\":\"refactor-pr\
+  eview-view-icon\"},\"name\":\"Refactor
   Preview\",\"isBuiltin\":true,\"views\":[{\"when\":\"refactorPreview.enabled\"\
   }]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer\
   -view-icon\"},\"name\":\"Remote
@@ -373,7 +376,7 @@ workbench.panel.positronHelp.hidden: '[{"id":"workbench.panel.positronHelp","isH
 workbench.panel.positronPreview.hidden: '[{"id":"workbench.panel.positronPreview","isHidden":false}]'
 workbench.panel.positronSession.hidden: '[{"id":"workbench.panel.positronVariables","isHidden":false},{"id":"workbench.panel.positronPlots","isHidden":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "201"
+workbench.panel.size: "218"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":true},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.sideBar.size: "278"
 workbench.statusbar.hidden: '["status.notebook.executionInfo"]'

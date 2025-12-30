@@ -26,7 +26,6 @@
     "workbench.editor.openPositioning": "last",
     "workbench.tree.indent": 10,
     "workbench.editor.enablePreview": false,
-    "breadcrumbs.enabled": false,
     "syncSettings.ignoredSettings": [
         
     ],
