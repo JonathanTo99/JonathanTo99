@@ -9,6 +9,8 @@ enabled:
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: felipecaputo.git-project-manager
+    uuid: 2bba45f2-4a48-41a6-bb86-d6ba5ab29a9f
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: GitHub.vscode-pull-request-github
@@ -17,6 +19,8 @@ enabled:
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: meta.pyrefly
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-toolsai.jupyter
@@ -27,6 +31,8 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: pinage404.git-extension-pack
+    uuid: 7a160397-2776-4848-a91e-696535e29cd5
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: Posit.air-vscode
