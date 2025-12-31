@@ -7,8 +7,12 @@ enabled:
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: felipecaputo.git-project-manager
     uuid: 2bba45f2-4a48-41a6-bb86-d6ba5ab29a9f
   - id: GitHub.github-vscode-theme
@@ -21,6 +25,10 @@ enabled:
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-toolsai.jupyter
