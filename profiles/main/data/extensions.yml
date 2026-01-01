@@ -13,16 +13,12 @@ enabled:
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
-  - id: DavidAnson.vscode-markdownlint
-    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: edwinhuish.better-comments-next
     uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
-  - id: iamhyc.overleaf-workshop
-    uuid: 1a52bc9c-7e6e-4964-b16c-b4b0613df2ad
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: meta.pyrefly
