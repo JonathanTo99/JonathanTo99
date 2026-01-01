@@ -1,7 +1,13 @@
 builtin:
   disabled:
     - vscode.r
-disabled: []
+disabled:
+  - id: ltex-plus.vscode-ltex-plus
+    uuid: d4ab21d5-2613-4281-be43-7c5b8adc2eae
+  - id: posit.publisher
+    uuid: ccc4be7e-a835-4fcf-b439-79c25a0ae11e
+  - id: Posit.shiny
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: antfu.slidev
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
@@ -13,22 +19,14 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: edwinhuish.better-comments-next
     uuid: fbacb7e9-e750-49db-a1c0-d94617178938
-  - id: felipecaputo.git-project-manager
-    uuid: 2bba45f2-4a48-41a6-bb86-d6ba5ab29a9f
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: iamhyc.overleaf-workshop
+    uuid: 1a52bc9c-7e6e-4964-b16c-b4b0613df2ad
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: meta.pyrefly
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
-  - id: mhutchie.git-graph
-    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
-  - id: ms-azuretools.vscode-containers
-    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
-  - id: ms-azuretools.vscode-docker
-    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-toolsai.jupyter
@@ -37,22 +35,12 @@ enabled:
     uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-toolsai.vscode-jupyter-cell-tags
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
-  - id: ms-toolsai.vscode-jupyter-slideshow
-    uuid: e153ca70-b543-4865-b4c5-b31d34185948
-  - id: pinage404.git-extension-pack
-    uuid: 7a160397-2776-4848-a91e-696535e29cd5
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: Posit.air-vscode
     uuid: 28c4f61c-37ea-41b1-845b-9e2bf586cce8
-  - id: posit.publisher
-    uuid: ccc4be7e-a835-4fcf-b439-79c25a0ae11e
-  - id: Posit.shiny
-    uuid: 7ffa9a66-85ab-44de-ab80-2eecce45b0fe
   - id: quarto.quarto
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
