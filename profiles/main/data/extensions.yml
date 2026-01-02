@@ -4,10 +4,6 @@ builtin:
 disabled:
   - id: ltex-plus.vscode-ltex-plus
     uuid: d4ab21d5-2613-4281-be43-7c5b8adc2eae
-  - id: posit.publisher
-    uuid: ccc4be7e-a835-4fcf-b439-79c25a0ae11e
-  - id: Posit.shiny
-    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: antfu.slidev
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
@@ -35,6 +31,10 @@ enabled:
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: Posit.air-vscode
     uuid: 28c4f61c-37ea-41b1-845b-9e2bf586cce8
+  - id: posit.publisher
+    uuid: ccc4be7e-a835-4fcf-b439-79c25a0ae11e
+  - id: Posit.shiny
+    uuid: 7ffa9a66-85ab-44de-ab80-2eecce45b0fe
   - id: quarto.quarto
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
   - id: yzhang.markdown-all-in-one
