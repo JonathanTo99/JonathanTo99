@@ -31,10 +31,10 @@ processed_data <- proteomics_data %>%
 # --- STEP 4: PLOTTING ---
 # Fill in the aesthetics to map the data to the axes
 
-volcano_plot <- ggplot(processed_data, aes(x = ___, y = ___, color = Category)) +
+volcano_plot <- ggplot(processed_data, aes(x = log2FC, y = neg_log10_p, color = Category)) +
   
   # Add the geometric object for a scatter plot
-  geom____(size = 3) + 
+  geom_point(size = 3, alpha = 0.8) + 
   
   # Manually set colors: Grey for Not Sig, Red for Significant
   scale_color_manual(values = c("Not Significant" = "grey", "Significant" = "red")) +
