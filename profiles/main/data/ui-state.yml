@@ -11,7 +11,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   To\",\"email\":\"toshuyi@gmail.com\",\"verified\":true,\"createdOn\":\"2022-0\
   6-26T06:13:13.388Z\"},\"activeOrganization\":{\"id\":\"65c619f72cebeb1f589c04\
   68\",\"name\":\"toshuyi's
-  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1767664261922}},\"gitl\
+  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1767743666500}},\"gitl\
   ens:version\":\"17.8.1\",\"gitlens:synced:version\":\"17.8.1\",\"gitlens:usag\
   es\":{\"homeView:shown\":{\"count\":8,\"firstUsedAt\":1764454281461,\"lastUse\
   dAt\":1767235306089},\"fileHistoryView:shown\":{\"count\":3,\"firstUsedAt\":1\
@@ -33,8 +33,8 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
   \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
   .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":88,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1767665465778},\"command:gitlens\
+  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":93,\
+  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1767753243763},\"command:gitlens\
   .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
   \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
   \":2,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1767392772951},\"command:gi\
@@ -59,8 +59,9 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   thPrevious:editor/title:executed\":{\"count\":1,\"firstUsedAt\":1767392772819,\
   \"lastUsedAt\":1767392772819},\"command:gitlens.toggleFileChanges:editor:exec\
   uted\":{\"count\":1,\"firstUsedAt\":1767392784248,\"lastUsedAt\":176739278424\
-  8}},\"gitlens:repoVisibility\":[[\"c:/Obsidian
-  Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
+  8},\"command:gitlens.toggleFileHeatmap:editor:executed\":{\"count\":1,\"first\
+  UsedAt\":1767743141672,\"lastUsedAt\":1767743141672}},\"gitlens:repoVisibility\
+  \":[[\"c:/Obsidian Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
   Tracy/BYU-Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":176445462983\
   4,\"remotesHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/GitHub/BYU\
   -Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":1765263074173,\"remot\
@@ -76,14 +77,14 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   To\\\\AppData\\\\Roaming\\\\Positron\\\\User\\\\globalStorage\\\\eamodio.gitl\
   ens\",\"gitlens:gk:cli:corePath\":\"C:\\\\Users\\\\Jonathan
   To\\\\AppData\\\\Local\\\\GitKrakenCLI\",\"gitlens:gk:a7fbc762-b14f-4d30-b120\
-  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1767664261569,\"data\":{\"user\
+  -84f69b01a27a:checkin\":{\"v\":1,\"timestamp\":1767743666197,\"data\":{\"user\
   \":{\"id\":\"a7fbc762-b14f-4d30-b120-84f69b01a27a\",\"name\":\"Jonathan
   (ShueYi)
   To\",\"email\":\"toshuyi@gmail.com\",\"status\":\"activated\",\"createdDate\":\
   \"2022-06-26T06:13:13.388Z\"},\"licenses\":{\"paidLicenses\":{},\"effectiveLi\
   censes\":{}},\"nextOptInDate\":\"2026-04-02T00:00:00.000Z\"}},\"gitlens:gk:a7\
   fbc762-b14f-4d30-b120-84f69b01a27a:organizations\":{\"v\":1,\"timestamp\":176\
-  7664261904,\"data\":[{\"id\":\"65c619f72cebeb1f589c0468\",\"name\":\"toshuyi's
+  7743666471,\"data\":[{\"id\":\"65c619f72cebeb1f589c0468\",\"name\":\"toshuyi's
   organization\",\"role\":\"owner\"}]},\"gitlens:integrations:configured\":{\"g\
   ithub\":[{\"integrationId\":\"github\",\"expiresAt\":\"2059-12-28T15:45:32.92\
   1Z\",\"scopes\":\"repo,read:user,user:email\",\"cloud\":true}],\"gitlab\":[],\
@@ -109,7 +110,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   \":false,\"aiEnabled\":true,\"enforceAiProviders\":false,\"aiProviders\":{},\
   \"ssoEnabled\":false,\"ssoEnforced\":false,\"ssoProvision\":false,\"createdAt\
   \":\"2025-12-19T02:08:29.01609Z\",\"updatedAt\":\"2026-01-03T01:30:15.207522Z\
-  \",\"lastValidatedAt\":1767664262159}}}"
+  \",\"lastValidatedAt\":1767743666813}}}"
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ms-toolsai.jupyter: '{"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/Jonathan%20To/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","13bcc98f751425a41ab024a75cad5a87e0c9e826ecd9e9edc2a150171b5471b8#ipykernel":true,"CONDA_INFORMATION_CACHE":{"version":"25.11.0","file":"c:\\Users\\Jonathan
   To\\miniconda3\\Scripts\\conda.exe","fileHash":"9ea8453d560e31cd4797249a634673fe41796aa0a241a87184921f52a72c7b7ee9fb7b8345b41d832d49fed82354feb5e1f896d7b1b75e5fbfdd24b5cba157a0"}}'
@@ -311,7 +312,7 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.panel.positronS\
   vg\",\"scheme\":\"file\"},\"name\":\"Connections\",\"isBuiltin\":false,\"views\
   \":[{\"when\":\"positron-connections.connectionsEnabled\"}]}]"
 workbench.auxiliaryBar.size: "335"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["latex",true],["bat",true],["ignore",true],["pip-requirements",true],["powershell",true],["properties",true],["jsonc",true],["r",true],["git-commit",true],["markdown",true],["python",true],["plaintext",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["latex",true],["bat",true],["ignore",true],["pip-requirements",true],["powershell",true],["properties",true],["jsonc",true],["r",true],["git-commit",true],["plaintext",true],["markdown",true],["python",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"catalog-explorer","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"quarto-assist","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"tabstronaut","isHidden":false},{"id":"tabstronautUngrouped","isHidden":false},{"id":"decks","isHidden":false},{"id":"overleaf-workshop.projectHistory","isHidden":false},{"id":"overleaf-workshop.chatWebview","isHidden":false},{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false},{"id":"notifications:github","isHidden":false},{"id":"github:conflictResolution","isHidden":false},{"id":"github:createPullRequestWebview","isHidden":false},{"id":"github:compareChangesFiles","isHidden":false},{"id":"github:compareChangesCommits","isHidden":false},{"id":"prStatus:github","isHidden":false},{"id":"github:activePullRequest","isHidden":false},{"id":"github:activePullRequest:welcome","isHidden":false},{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false},{"id":"posit.publisher.project","isHidden":false},{"id":"posit.publisher.homeView","isHidden":false},{"id":"posit.publisher.untrusted","isHidden":false},{"id":"overleaf-workshop.projectManager","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
