@@ -71,6 +71,9 @@ print(total_sum)
 
 # Rosalind Problem 5: Working with Files
 
-f = open("rosalind_ini5.txt", "r")
+f = open("rosalind_ini5.txt", "r").readlines()
 
-line_number = 1
+target_lines = f[1::2]
+
+for line in target_lines:
+    print(line.strip())
