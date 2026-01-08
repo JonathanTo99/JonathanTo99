@@ -57,7 +57,6 @@ for i in range(n):
   print i
 
 print(list(range(5, 12)))
-'''
 
 a = 4873
 b = 9627
@@ -68,3 +67,10 @@ for i in range(a, b + 1):
     if i % 2 == 1:
         total_sum += i
 print(total_sum)
+'''
+
+# Rosalind Problem 5: Working with Files
+
+f = open("rosalind_ini5.txt", "r")
+
+line_number = 1
