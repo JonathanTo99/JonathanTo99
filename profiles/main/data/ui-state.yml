@@ -33,8 +33,8 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   edAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\":2,\
   \"firstUsedAt\":1765263168784,\"lastUsedAt\":1766109972655},\"command:gitlens\
   .views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\":17\
-  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":95,\
-  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1767847919843},\"command:gitlens\
+  65263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\":96,\
+  \"firstUsedAt\":1765263202726,\"lastUsedAt\":1767895104072},\"command:gitlens\
   .diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":1765263221297,\
   \"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\"count\
   \":2,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1767392772951},\"command:gi\
@@ -65,9 +65,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   Tracy/BYU-Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":176445462983\
   4,\"remotesHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/GitHub/BYU\
   -Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":1765263074173,\"remot\
-  esHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/GitHub/JonathanTo99\
-  \",{\"visibility\":\"public\",\"timestamp\":1765263074174,\"remotesHash\":\"g\
-  ithub.com/JonathanTo99/JonathanTo99\"}],[\"c:/Backup/Obsidian
+  esHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/Backup/Obsidian
   Vaults/Zettelkasten\",{\"visibility\":\"private\",\"timestamp\":1767402487300,\
   \"remotesHash\":\"github.com/JonathanTo99/Zettelkasten\"}]],\"gitlens:home:se\
   ctions:collapsed\":[\"newHomePreview\",\"integrationBanner\"],\"gitlens:views\
