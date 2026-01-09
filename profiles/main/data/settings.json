@@ -13,13 +13,12 @@
         "upload": "0 */4 * * *"  // Upload every 4 hours for backup
     },
     "gitlens.ai.model": "vscode",
-    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "gitlens.ai.vscode.model": "copilot:gpt-5-mini",
     "window.newWindowProfile": "Default",
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "syncSettings.additionalFiles": [
     ],
-    "redhat.telemetry.enabled": false,
     "syncSettings.hooks.postDownload": "",
     "workbench.activityBar.location": "top", 
     "latex-workshop.view.pdf.invert": 1.0,
