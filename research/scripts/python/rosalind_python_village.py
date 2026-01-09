@@ -71,9 +71,13 @@ print(total_sum)
 
 # Rosalind Problem 5: Working with Files
 
+'''
 f = open("rosalind_ini5.txt", "r").readlines()
 
 target_lines = f[1::2]
 
 for line in target_lines:
     print(line.strip())
+'''
+
+# Rosalind Problem 6: Dictionaries
