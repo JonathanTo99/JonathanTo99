@@ -43,5 +43,11 @@
     },
     "terminal.integrated.environmentChangesRelaunch": false,
     "latex-workshop.bibtex-format.tab": "4 spaces",
+    "breadcrumbs.enabled": false,
+    "anki.md.updateCards": true,
+    "anki.md.insertNewCardID": true,
+    "anki.md.card.separator": "\n\n",
+    "anki.md.card.frontBackSeparator": "\\s*::\\s*",
+    "anki.md.card.tagPattern": "^#+\\s*",
 }
 
