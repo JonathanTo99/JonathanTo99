@@ -20,9 +20,7 @@
     "syncSettings.hooks.postDownload": "",
     "workbench.activityBar.location": "top", 
     "latex-workshop.view.pdf.invert": 1.0,
-    "workbench.editor.openPositioning": "last",
     "workbench.tree.indent": 10,
-    "workbench.editor.enablePreview": false,
     "syncSettings.ignoredSettings": [
     ],
     "workbench.editor.autoLockGroups": {
@@ -44,5 +42,6 @@
         "MY_VAR": "value"
     },
     "terminal.integrated.environmentChangesRelaunch": false,
+    "latex-workshop.bibtex-format.tab": "4 spaces",
 }
 
