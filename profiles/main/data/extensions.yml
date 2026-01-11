@@ -17,14 +17,20 @@ enabled:
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: iamhyc.overleaf-workshop
+    uuid: 1a52bc9c-7e6e-4964-b16c-b4b0613df2ad
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jasew.anki
     uuid: 58767951-324b-4078-af31-9aba38f0c189
   - id: jhhtaylor.tabstronaut
     uuid: d450f277-c20c-4f3f-9b1b-ea7228ab50ce
+  - id: mblode.zotero
+    uuid: 6a20265e-b6b1-4f36-ab5b-edfdd44be535
   - id: meta.pyrefly
     uuid: 53872426-67ef-4956-afb1-bdae83866fd2
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-toolsai.jupyter
@@ -45,6 +51,8 @@ enabled:
     uuid: 7ffa9a66-85ab-44de-ab80-2eecce45b0fe
   - id: quarto.quarto
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
+  - id: yunierolivera.markdown-quarto-word-count
+    uuid: e70b98e8-1c11-46ad-95ef-053bd92ca524
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks

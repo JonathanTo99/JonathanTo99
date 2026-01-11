@@ -49,5 +49,7 @@
     "anki.md.card.separator": "\n\n",
     "anki.md.card.frontBackSeparator": "\\s*::\\s*",
     "anki.md.card.tagPattern": "^#+\\s*",
+    "gitlens.launchpad.indicator.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
 }
 
