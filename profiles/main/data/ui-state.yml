@@ -31,10 +31,10 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   \"firstUsedAt\":1764454864336,\"lastUsedAt\":1768078334404},\"command:gitlens\
   .home.switchToBranch:executed\":{\"count\":2,\"firstUsedAt\":1765263168783,\"\
   lastUsedAt\":1766109972654},\"command:gitlens.gitCommands:executed\":{\"count\
-  \":3,\"firstUsedAt\":1765263168784,\"lastUsedAt\":1767937564242},\"command:gi\
+  \":4,\"firstUsedAt\":1765263168784,\"lastUsedAt\":1768142925340},\"command:gi\
   tlens.views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\
   \":1765263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\
-  \":129,\"firstUsedAt\":1765263202726,\"lastUsedAt\":1768113272818},\"command:\
+  \":130,\"firstUsedAt\":1765263202726,\"lastUsedAt\":1768142929877},\"command:\
   gitlens.diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":176526\
   3221297,\"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\
   \"count\":2,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1767392772951},\"com\
@@ -69,8 +69,10 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   stUsedAt\":1767937564242},\"command:gitlens.showLaunchpad:executed\":{\"count\
   \":1,\"firstUsedAt\":1768092123499,\"lastUsedAt\":1768092123499},\"command:gi\
   tlens.launchpad.indicator.action:executed\":{\"count\":1,\"firstUsedAt\":1768\
-  092136918,\"lastUsedAt\":1768092136918}},\"gitlens:repoVisibility\":[[\"c:/Ob\
-  sidian Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
+  092136918,\"lastUsedAt\":1768092136918},\"command:gitlens.showQuickCommitFile\
+  Details:executed\":{\"count\":1,\"firstUsedAt\":1768142925270,\"lastUsedAt\":\
+  1768142925270}},\"gitlens:repoVisibility\":[[\"c:/Obsidian
+  Vaults/Backup/Professional/Univerisity/Academic Labs/Dr.
   Tracy/BYU-Core-MS-Lab\",{\"visibility\":\"public\",\"timestamp\":176445462983\
   4,\"remotesHash\":\"github.com/MSCoreLab/BYU-Core-MS-Lab\"}],[\"c:/Backup/Obs\
   idian
