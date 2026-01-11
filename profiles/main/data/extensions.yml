@@ -9,6 +9,8 @@ enabled:
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
+  - id: ChrisChinchilla.vscode-pandoc
+    uuid: b6f42e7a-a934-4553-87d8-3c6be2f5a22b
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: edwinhuish.better-comments-next
