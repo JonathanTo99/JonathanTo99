@@ -55,6 +55,8 @@ enabled:
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
   - id: yunierolivera.markdown-quarto-word-count
     uuid: e70b98e8-1c11-46ad-95ef-053bd92ca524
+  - id: YuTengjing.open-in-external-app
+    uuid: 42a19d78-8550-49db-958b-561a7bfdee7d
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
