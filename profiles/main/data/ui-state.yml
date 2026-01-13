@@ -405,7 +405,7 @@ workbench.panel.positronHistory.hidden: '[{"id":"workbench.panel.positronHistory
 workbench.panel.positronPreview.hidden: '[{"id":"workbench.panel.positronPreview","isHidden":false}]'
 workbench.panel.positronSession.hidden: '[{"id":"workbench.panel.positronVariables","isHidden":false},{"id":"workbench.panel.positronPlots","isHidden":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "35"
+workbench.panel.size: "199"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":true},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.sideBar.size: "277"
 workbench.statusbar.hidden: '["status.notebook.executionInfo"]'

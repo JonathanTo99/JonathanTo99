@@ -51,5 +51,8 @@
     "anki.md.card.tagPattern": "^#+\\s*",
     "gitlens.launchpad.indicator.enabled": false,
     "workbench.productIconTheme": "fluent-icons",
+    "positron.assistant.inlineCompletions.enable": {
+        "*": false
+    },
 }
 
