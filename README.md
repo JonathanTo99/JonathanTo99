@@ -6,18 +6,38 @@ I'm a microbiology student at BYU graduating in April 2026 with a passion for **
 
 ------------------------------------------------------------------------
 
-## 😄 Pronouns
-
-He/Him
-
-------------------------------------------------------------------------
-
 ## 🔭 I'm currently working on
 
 -   **Finishing my BS in Microbiology** at BYU (graduating April 2026)
--   **Undergraduate research** in bacteriology, virology, immunology, and proteomics (MMBIO 399R, 494R, CHEM 497R)
--   Building expertise in **flow cytometry** and immunology lab techniques
+-   **Undergraduate research** in bacteriology, virology, immunology, and proteomics
+-   Building expertise in **Mass Spectrometry** and other advanced high-throughput techniques
 -   Planning my transition to a **biotech industry** role in Utah
+
+------------------------------------------------------------------------
+
+## 📚 Current Projects
+
+Check out my [Personal Repository](https://github.com/JonathanTo99/JonathanTo99) for more details on these projects:
+- **Bioinformatics Learning**-- Projects from my journey learning Python, R, and computational biology 
+- **Research Notes**-- Documentation of my learning in cancer biology, virology, and immunology
+
+I have also built [BYU MS Core Lab](https://github.com/MSCoreLab/BYU-Core-MS-Lab) for my proteomics lab's data analysis needs: 
+- **HEY (Hela, E. Coli, Yeast) protein intensities fold change analysis** for instrumentation performance quality control
+- **Unify workflows** for existing and competing computational proteomics tools as a part of our data analysis pipeline
+
+------------------------------------------------------------------------
+
+## 📫 How to reach me
+
+-   💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/jonathanto99)
+-   📧 **Email**: [toshuyi\@gmail.com](mailto:toshuyi@gmail.com)
+-   🧬 **GitHub**: You're already here! Feel free to explore my projects and repositories
+
+------------------------------------------------------------------------
+
+## 😄 Pronouns
+
+He/Him
 
 ------------------------------------------------------------------------
 
@@ -59,14 +79,6 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## 📫 How to reach me
-
--   💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/jonathanto99)
--   📧 **Email**: [toshuyi\@gmail.com](mailto:toshuyi@gmail.com)
--   🧬 **GitHub**: You're already here! Feel free to explore my projects and repositories
-
-------------------------------------------------------------------------
-
 ## ⚡ Fun facts
 
 -   🔬 I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
@@ -82,14 +94,6 @@ Most PhD candidates choose one of these paths: - **Traditional route**: BS → P
 **My hybrid approach**: - **BS Microbiology** → **Biotech Industry Work** → **MS in Translational Bioinformatics** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
 
 This gives me industry biotech expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
-
-------------------------------------------------------------------------
-
-## 📚 Current Projects
-
-Check out my repositories for more details on these projects:
-- **Bioinformatics Learning**-- Projects from my journey learning Python, R, and computational biology 
-- **Research Notes**-- Documentation of my learning in cancer biology, virology, and immunology
 
 ------------------------------------------------------------------------
 
