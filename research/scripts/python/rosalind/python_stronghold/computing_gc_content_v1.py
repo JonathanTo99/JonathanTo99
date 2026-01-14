@@ -11,6 +11,7 @@
 
 # Program:
 # Uses the max function and get_score
+
 from collections import Counter
 
 fasta_ID = {}

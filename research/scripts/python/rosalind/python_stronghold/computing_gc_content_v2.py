@@ -10,13 +10,14 @@
 '''
 
 # Program: 
-# Revised and a more simple version using for loop
+# Revised and a more simple version using for loops
+
 from collections import Counter
 
-# 1. The Parser
 fasta_ID = {}
 current_ID = ""
 
+# 1. The Parser
 with open("rosalind_gc.txt") as dna_fasta: # Opens the file
     for line in dna_fasta: # Check each line in the file
         if line.startswith(">"): # If the line starts with ">", its an ID
