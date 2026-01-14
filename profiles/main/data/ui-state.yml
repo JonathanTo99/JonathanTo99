@@ -34,7 +34,7 @@ eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
   \":4,\"firstUsedAt\":1765263168784,\"lastUsedAt\":1768142925340},\"command:gi\
   tlens.views.scm.grouped.welcome.dismiss:executed\":{\"count\":1,\"firstUsedAt\
   \":1765263202438,\"lastUsedAt\":1765263202438},\"commitsView:shown\":{\"count\
-  \":143,\"firstUsedAt\":1765263202726,\"lastUsedAt\":1768408615262},\"command:\
+  \":146,\"firstUsedAt\":1765263202726,\"lastUsedAt\":1768425465587},\"command:\
   gitlens.diffWithPrevious:views:executed\":{\"count\":1,\"firstUsedAt\":176526\
   3221297,\"lastUsedAt\":1765263221297},\"command:gitlens.diffWith:executed\":{\
   \"count\":2,\"firstUsedAt\":1765263221298,\"lastUsedAt\":1767392772951},\"com\
