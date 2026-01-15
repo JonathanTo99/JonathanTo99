@@ -53,6 +53,8 @@ enabled:
     uuid: 7ffa9a66-85ab-44de-ab80-2eecce45b0fe
   - id: quarto.quarto
     uuid: a1be81fc-0f3a-4f2e-92ee-3fdc7ab96c73
+  - id: reageyao.biosyntax
+    uuid: 66aececd-49b8-470c-b688-198f63d033a4
   - id: yunierolivera.markdown-quarto-word-count
     uuid: e70b98e8-1c11-46ad-95ef-053bd92ca524
   - id: YuTengjing.open-in-external-app
