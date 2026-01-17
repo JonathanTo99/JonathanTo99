@@ -14,10 +14,12 @@ hamming_distance = 0 # Hamming distance set to 0 to be added to
 with open("rosalind_hamm.txt") as point_mutations: # opens the file
     for line in point_mutations: # Reads it line by line
         dna_seq.append(line.strip()) # Adds the lines to the list individually
+
 seq1 = dna_seq[0] # The first DNA sequence is at the 0 index
 seq2 = dna_seq[1] # The next DNA sequence is at the 1 index
     
-for i in range(len(seq1)): # Loops through the nucleotides in seq1
-    if seq1[i] != seq2[i]: # If the nucleotides is not the same as the homologous nucleotide in seq2
+for n1, n2 in zip(seq1, seq2): # Loops through and compare the nucleotides in each sequence
+    if n1 != n2: # If each nucleotide in seq1 is not the same as its homologous nucleotide in seq2
         hamming_distance += 1 # Hamming distance increases by 1
+
 print(hamming_distance) # Print the hamming distance

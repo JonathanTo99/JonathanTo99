@@ -52,5 +52,9 @@
     "gitlens.launchpad.indicator.enabled": false,
     "workbench.productIconTheme": "fluent-icons",
     "BioSyntax.nonBioTheme": "GitHub Dark Default",
+    "positron.assistant.inlineCompletions.enable": {
+        "*": true,
+        "python": false
+    },
 }
 
