@@ -7,6 +7,8 @@ disabled:
 enabled:
   - id: antfu.slidev
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
+  - id: astral-sh.ty
+    uuid: 06854e4c-1253-4639-aa05-1fe79daa704a
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: eamodio.gitlens
@@ -27,8 +29,6 @@ enabled:
     uuid: d450f277-c20c-4f3f-9b1b-ea7228ab50ce
   - id: mblode.zotero
     uuid: 6a20265e-b6b1-4f36-ab5b-edfdd44be535
-  - id: meta.pyrefly
-    uuid: 53872426-67ef-4956-afb1-bdae83866fd2
   - id: miguelsolorio.fluent-icons
     uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
   - id: ms-python.debugpy
