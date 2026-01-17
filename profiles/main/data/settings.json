@@ -54,7 +54,7 @@
     "BioSyntax.nonBioTheme": "GitHub Dark Default",
     "positron.assistant.inlineCompletions.enable": {
         "*": true,
-        "python": false
+        "python": true
     },
 }
 
