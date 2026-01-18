@@ -44,4 +44,6 @@ desktop.ini
 # Data files (uncomment patterns as needed)
 # *.raw
 # *.mzML
-# *.mzXML
+# *.mzXML# pixi environments
+.pixi/*
+!.pixi/config.toml
