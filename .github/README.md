@@ -29,13 +29,13 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ### Production Architecture
 
-* **[Proteomics-Pipeline-Automation](https://github.com/MSCoreLab/BYU-Core-MS-Lab)** (Live Production Code)
-    * **Overview:** This repository contains the production source code for the automation pipelines used at the **BYU Fritz B. Burns Cancer Research Center MS Core Facility**. *It is The active OS powering the BYU Mass Spectrometry Core.*
-    * **Tech:** Flask, Pandas, Matplotlib, React.
-    * **Key Performance Metrics:**
-      * **10x Throughput:** Enabled scaling from 15 to **100+ proteomes/day** via automated batch processing.
-      * **85% Efficiency Gain:** Reduced manual QC time by automating tic/mzML extraction and reporting.
-      * **Data Integrity:** Implemented spike-in validation workflows (HeLa/E.coli/Yeast) to ensure <20% CV across multi-lab studies.
+-   [**Proteomics-Pipeline-Automation**](https://github.com/MSCoreLab/BYU-Core-MS-Lab) (Live Production Code)
+    -   **Overview:** The active OS powering the BYU Mass Spectrometry Core.
+    -   **Tech:** Flask, Pandas, Matplotlib, React.
+    -   **Key Metrics:**
+        -   **10x Throughput:** Enabled scaling from 15 to **100+ proteomes/day**.
+        -   **85% Efficiency Gain:** Reduced manual QC time by automating extraction workflows.
+        -   **Data Integrity:** Ensured \<20% CV validation across multi-lab studies.
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,6 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 -   **Networking with scientists** working in oncolytic virotherapy or cancer immunology
 -   **Advice on PhD applications** from people who took non-traditional paths (industry experience before PhD)
--   **Bioinformatics project ideas** that could strengthen my computational biology skills
 -   **Mentorship** from translational scientists who bridge clinical and research worlds
 
 ------------------------------------------------------------------------
@@ -82,7 +81,7 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 ## Fun facts
 
--   I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
+-   I'm building a **clinical-computational-research triple threat** skillset that is in high demand across disciplines
 -   I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
 -   I enjoy **cooking** (with or without recipes), **gaming**, **reading** and **hiking** in my free time!
 
@@ -97,4 +96,4 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
 
-I'm planting my tree now at age 26, and I'm excited to see it grow into a career advancing oncolytic virotherapy research! 
+I'm planting my tree now at age 26, and I'm excited to see it grow into a career advancing oncolytic virotherapy research!
