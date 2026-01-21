@@ -8,7 +8,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-### 🚀 Engineering Impact (Current Role)
+### Engineering Impact (Current Role)
 
 -   **10x Throughput:** Architected Python pipelines (Pandas/NumPy) for the **Orbitrap Astral**, scaling daily capacity from 15 to **100+ proteomes**.
 -   **85% QC Reduction:** Built programmatic visualization modules to automate instrument performance monitoring, removing manual validation bottlenecks.
@@ -16,7 +16,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 | Domain | Tools |
 |:-----------------------------------|:-----------------------------------|
@@ -27,7 +27,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-### 📂 Production Architecture
+### Production Architecture
 
 * **[Proteomics-Pipeline-Automation](https://github.com/YourUsername/BYU-Core-MS-Lab)** (Live Production Code)
     * **Overview:** This repository contains the production source code for the automation pipelines used at the **BYU Fritz B. Burns Cancer Research Center MS Core Facility**. *It is The active OS powering the BYU Mass Spectrometry Core.*
@@ -39,20 +39,20 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-### 📫 Connect
+### Connect
 
 -   **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
 -   **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
 
 ------------------------------------------------------------------------
 
-## 😄 Pronouns
+## Pronouns
 
 He/Him
 
 ------------------------------------------------------------------------
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 -   **Organic chemistry & biochemistry** - strengthening prerequisites for PhD programs
 -   **Cancer biology & immunology** - Reading Nature Immunology, Nature Cancer, and key textbooks like *Oncoimmunology*
@@ -61,7 +61,7 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## 👯 I'm looking to collaborate on
+## I'm looking to collaborate on
 
 -   **Research projects** in virology, immunology, or cancer biology
 -   **Open-source bioinformatics tools** for genomic data analysis
@@ -70,7 +70,7 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## 🤔 I'm looking for help with
+## I'm looking for help with
 
 -   **Networking with scientists** working in oncolytic virotherapy or cancer immunology
 -   **Advice on PhD applications** from people who took non-traditional paths (industry experience before PhD)
@@ -79,7 +79,7 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## 💬 Ask me about
+## Ask me about
 
 -   **Career planning** for non-traditional paths to PhD programs
 -   **Balancing work and graduate school** (I'll be doing MS part-time while working full-time!)
@@ -90,7 +90,7 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## ⚡ Fun facts
+## Fun facts
 
 -   🔬 I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
 -   🌱 I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
@@ -98,7 +98,7 @@ He/Him
 
 ------------------------------------------------------------------------
 
-## 🧬 My Unique Approach
+## My Unique Approach
 
 Most PhD candidates choose one of these paths: - **Traditional route**: BS → PhD directly (age 22-28) - **Clinical route**: BS → clinical work → maybe PhD later - **Computational route**: BS → MS in Bioinformatics → PhD
 
