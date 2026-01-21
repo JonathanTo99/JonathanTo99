@@ -29,7 +29,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ### Production Architecture
 
--   [**Proteomics-Pipeline-Automation**](https://github.com/MSCoreLab/BYU-Core-MS-Lab) (Live Production Code)
+-   [**Proteomics-Pipeline-Automation**](https://github.com/MSCoreLab/BYU-MS-Core-Automative-Proteomics-Tools) (Live Production Code)
     -   **Overview:** The active OS powering the BYU Mass Spectrometry Core.
     -   **Tech:** Flask, Pandas, Matplotlib, React.
     -   **Key Metrics:**
