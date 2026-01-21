@@ -29,7 +29,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ### Production Architecture
 
-* **[Proteomics-Pipeline-Automation](https://github.com/YourUsername/BYU-Core-MS-Lab)** (Live Production Code)
+* **[Proteomics-Pipeline-Automation](https://github.com/MSCoreLab/BYU-Core-MS-Lab)** (Live Production Code)
     * **Overview:** This repository contains the production source code for the automation pipelines used at the **BYU Fritz B. Burns Cancer Research Center MS Core Facility**. *It is The active OS powering the BYU Mass Spectrometry Core.*
     * **Tech:** Flask, Pandas, Matplotlib, React.
     * **Key Performance Metrics:**
@@ -39,25 +39,15 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-### Connect
+## 🗺️ Career Roadmap
 
--   **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
--   **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
+I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap between bench science and data engineering.
 
-------------------------------------------------------------------------
+-   **Phase 1 (Current):** Build high-throughput automation expertise in **Biotech Industry** (Recursion/TechBio).
+-   **Phase 2 (Concurrent):** Complete **MS in Translational Bioinformatics** to formalize computational skills without leaving the workforce.
+-   **Phase 3 (Future):** Pursue **PhD in Oncolytic Virotherapy** with a focus on industrial-grade translational research.
 
-## Pronouns
-
-He/Him
-
-------------------------------------------------------------------------
-
-## I'm currently learning
-
--   **Organic chemistry & biochemistry** - strengthening prerequisites for PhD programs
--   **Cancer biology & immunology** - Reading Nature Immunology, Nature Cancer, and key textbooks like *Oncoimmunology*
--   **Python & R programming** for genomic data science - through online courses and personal projects
--   **Data science & machine learning** - building computational skills to complement wet lab expertise
+**Goal:** To combine industrial operational excellence with rigorous academic research training—ensuring therapies survive the transition from bench to bedside.
 
 ------------------------------------------------------------------------
 
@@ -92,22 +82,19 @@ He/Him
 
 ## Fun facts
 
--   🔬 I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
--   🌱 I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
--   🍳 I enjoy **cooking** (with or without recipes), **gaming**, **reading** and **hiking** in my free time!
+-   I'm building a **clinical-computational-research triple threat** skillset that very few scientists have
+-   I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
+-   I enjoy **cooking** (with or without recipes), **gaming**, **reading** and **hiking** in my free time!
 
 ------------------------------------------------------------------------
 
-## My Unique Approach
+### Connect
 
-Most PhD candidates choose one of these paths: - **Traditional route**: BS → PhD directly (age 22-28) - **Clinical route**: BS → clinical work → maybe PhD later - **Computational route**: BS → MS in Bioinformatics → PhD
-
-**My hybrid approach**: - **BS Microbiology** → **Biotech Industry Work** → **MS in Translational Bioinformatics** (while working) → **PhD in Oncolytic Virotherapy** → **Industry R&D Leadership + Adjunct Teaching**
-
-This gives me industry biotech expertise, computational biology skills, AND research training - the perfect combination for developing therapies that actually make it from the bench to the bedside! 🚀
+-   **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
+-   **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
 
 ------------------------------------------------------------------------
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
 
-I'm planting my tree now at age 26, and I'm excited to see it grow into a career advancing oncolytic virotherapy research! 🌳🔬
+I'm planting my tree now at age 26, and I'm excited to see it grow into a career advancing oncolytic virotherapy research! 
