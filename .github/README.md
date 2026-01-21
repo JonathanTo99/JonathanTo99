@@ -39,7 +39,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 ------------------------------------------------------------------------
 
-## 🗺️ Career Roadmap
+## Career Roadmap
 
 I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap between bench science and data engineering.
 
@@ -87,7 +87,7 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 ------------------------------------------------------------------------
 
-### Connect
+## Connect
 
 -   **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
 -   **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
