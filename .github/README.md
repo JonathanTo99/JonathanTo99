@@ -30,9 +30,12 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 ### 📂 Production Architecture
 
 * **[Proteomics-Pipeline-Automation](https://github.com/YourUsername/BYU-Core-MS-Lab)** (Live Production Code)
-    * *The active OS powering the BYU Mass Spectrometry Core.*
+    * **Overview:** This repository contains the production source code for the automation pipelines used at the **BYU Fritz B. Burns Cancer Research Center MS Core Facility**. *It is The active OS powering the BYU Mass Spectrometry Core.*
     * **Tech:** Flask, Pandas, Matplotlib, React.
-    * **Impact:** 10x throughput increase, 11,000+ protein groups identified per run.
+    * **Key Performance Metrics:**
+      * **10x Throughput:** Enabled scaling from 15 to **100+ proteomes/day** via automated batch processing.
+      * **85% Efficiency Gain:** Reduced manual QC time by automating tic/mzML extraction and reporting.
+      * **Data Integrity:** Implemented spike-in validation workflows (HeLa/E.coli/Yeast) to ensure <20% CV across multi-lab studies.
 
 ------------------------------------------------------------------------
 
