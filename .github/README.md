@@ -1,41 +1,45 @@
 # Hi, I'm Jonathan To 👋
+
 ## Computational Biologist & Proteomics Data Analyst
 
 > **"Bridging the gap between High-Throughput Mass Spectrometry and Computational Automation."**
 
 I am a hybrid wet/dry lab researcher currently engineering the Python infrastructure for the **BYU Mass Spectrometry Core**. My focus is on **Industrializing Biology**: transforming manual, error-prone assays into robust, reproducible data engines.
 
----
+------------------------------------------------------------------------
 
 ### 🚀 Engineering Impact (Current Role)
-* **10x Throughput:** Architected Python pipelines (Pandas/NumPy) for the **Orbitrap Astral**, scaling daily capacity from 15 to **100+ proteomes**.
-* **85% QC Reduction:** Built programmatic visualization modules to automate instrument performance monitoring, removing manual validation bottlenecks.
-* **Precision at Scale:** Validated complex 3-species libraries (HeLa, E. coli, Yeast) identifying **11,000+ protein groups** with <7% CV.
 
----
+-   **10x Throughput:** Architected Python pipelines (Pandas/NumPy) for the **Orbitrap Astral**, scaling daily capacity from 15 to **100+ proteomes**.
+-   **85% QC Reduction:** Built programmatic visualization modules to automate instrument performance monitoring, removing manual validation bottlenecks.
+-   **Precision at Scale:** Validated complex 3-species libraries (HeLa, E. coli, Yeast) identifying **11,000+ protein groups** with \<7% CV.
+
+------------------------------------------------------------------------
 
 ### 🛠️ Technical Stack
+
 | Domain | Tools |
-| :--- | :--- |
+|:-----------------------------------|:-----------------------------------|
 | **Pipeline Engineering** | Python (Pandas, NumPy, Matplotlib), GitHub Actions, SQL |
 | **Proteomics** | FragPipe, DIA-NN, Proteome Discoverer, Orbitrap Astral |
 | **Data Science** | Jupyter, R (ggplot2), Scanpy, SciKit-Learn |
 | **Wet Lab** | Mammalian Cell Culture, High-Throughput Screening (HTS), Flow Cytometry |
 
----
+------------------------------------------------------------------------
 
-### 📂 Featured Architecture
-*Note: Some production code is proprietary. Public repos demonstrate logic and architecture.*
+### 📂 Production Architecture
 
-* **[Proteomics-QC-Pipeline](https://github.com/JonathanTo99/Proteomics-QC-Pipeline)** (Demo)
-    * *A sanitized demonstration of the logic used to automate Orbitrap QC metrics.*
-    * **Features:** Automated fold-change analysis, visualization of instrument drift, HEY (HeLa/E.coli/Yeast) benchmarking.
+* **[Proteomics-Pipeline-Automation](https://github.com/YourUsername/BYU-Core-MS-Lab)** (Live Production Code)
+    * *The active OS powering the BYU Mass Spectrometry Core.*
+    * **Tech:** Flask, Pandas, Matplotlib, React.
+    * **Impact:** 10x throughput increase, 11,000+ protein groups identified per run.
 
----
+------------------------------------------------------------------------
 
 ### 📫 Connect
-* **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
-* **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
+
+-   **LinkedIn:** [linkedin.com/in/jonathanto99](https://www.linkedin.com/in/jonathanto99)
+-   **Focus:** Industrializing Drug Discovery, High-Throughput Screening, Computational Biology
 
 ------------------------------------------------------------------------
 
