@@ -20,18 +20,18 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 
 | Domain | Tools |
 |:-----------------------------------|:-----------------------------------|
-| **Pipeline Engineering** | Python (Pandas, NumPy, Matplotlib), GitHub Actions, SQL |
+| **Pipeline Engineering** | Python (Pandas, NumPy, Matplotlib), Git & GitHub |
 | **Proteomics** | FragPipe, DIA-NN, Proteome Discoverer, Orbitrap Astral |
-| **Data Science** | Jupyter, R (ggplot2), Scanpy, SciKit-Learn |
-| **Wet Lab** | Mammalian Cell Culture, High-Throughput Screening (HTS), Flow Cytometry |
+| **Data Science** | Jupyter, Scanpy, Pyteomics, SciKit-Learn |
+| **Wet Lab** | Mass Spectrometry, Mammalian Cell Culture, High-Throughput Screening (HTS), Flow Cytometry |
 
 ------------------------------------------------------------------------
 
 ### Production Architecture
 
--   [**Proteomics-Pipeline-Automation**](https://github.com/MSCoreLab/BYU-MS-Core-Automative-Proteomics-Tools) (Live Production Code)
+-   [**BYU-MS-Core-Automative-Proteomics-Tools**](https://github.com/MSCoreLab/BYU-MS-Core-Automative-Proteomics-Tools) (Live Production Code)
     -   **Overview:** The active OS powering the BYU Mass Spectrometry Core.
-    -   **Tech:** Flask, Pandas, Matplotlib, React.
+    -   **Tech:** Flask, NumPy, Pandas, Matplotlib.
     -   **Key Metrics:**
         -   **10x Throughput:** Enabled scaling from 15 to **100+ proteomes/day**.
         -   **85% Efficiency Gain:** Reduced manual QC time by automating extraction workflows.
