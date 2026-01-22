@@ -9,9 +9,6 @@
     "editor.fontFamily": "\"Jetbrains Mono\"",
     "editor.fontSize": 13,
     "git.autofetch": true,
-    "syncSettings.crons": {
-        "upload": "0 */4 * * *"  // Upload every 4 hours for backup
-    },
     "window.newWindowProfile": "Default",
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
