@@ -25,12 +25,8 @@ enabled:
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jasew.anki
     uuid: 58767951-324b-4078-af31-9aba38f0c189
-  - id: jhhtaylor.tabstronaut
-    uuid: d450f277-c20c-4f3f-9b1b-ea7228ab50ce
   - id: mblode.zotero
     uuid: 6a20265e-b6b1-4f36-ab5b-edfdd44be535
-  - id: miguelsolorio.fluent-icons
-    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-toolsai.jupyter
