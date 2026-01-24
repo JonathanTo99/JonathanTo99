@@ -81,7 +81,7 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 ## Fun facts
 
--   I'm building a **clinical-computational-research triple threat** skillset that is in high demand across disciplines
+-   I'm building a **clinical-computational-research triple threat** skill set that is in high demand across disciplines
 -   I'm passionate about **mentoring students from non-traditional backgrounds** who want to pursue research careers
 -   I enjoy **cooking** (with or without recipes), **gaming**, **reading** and **hiking** in my free time!
 
@@ -94,6 +94,6 @@ I am pursuing a **hybrid wet/dry lab trajectory** designed to bridge the gap bet
 
 ------------------------------------------------------------------------
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
+*"The best time to plant a tree was 20 years ago. The second-best time is now."* - Chinese Proverb
 
 I'm planting my tree now at age 26, and I'm excited to see it grow into a career advancing oncolytic virotherapy research!
