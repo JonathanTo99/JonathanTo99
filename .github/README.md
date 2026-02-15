@@ -22,7 +22,7 @@ I am a hybrid wet/dry lab researcher currently engineering the Python infrastruc
 |:-----------------------------------|:-----------------------------------|
 | **Pipeline Engineering** | Python (Pandas, NumPy, Matplotlib), Git & GitHub |
 | **Proteomics** | FragPipe, DIA-NN, Proteome Discoverer, Orbitrap Astral |
-| **Data Science** | Jupyter, Scanpy, Pyteomics, SciKit-Learn |
+| **Data Science** | Jupyter, Scanpy, Quarto, Pyteomics |
 | **Wet Lab** | Mass Spectrometry, Mammalian Cell Culture, High-Throughput Screening (HTS), Flow Cytometry |
 
 ------------------------------------------------------------------------
