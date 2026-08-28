@@ -36,7 +36,7 @@
 
 #section-heading("Education")
 
-#resume-entry("Bachelor of Science - Microbiology", "Graduated in 2026", "Brigham Young University", "Provo, UT")
+#resume-entry("Bachelor of Science - Microbiology", "2026", "Brigham Young University", "Provo, UT")
 - Relevant Coursework: MMBIO 522 *Flow Cytometry*, MMBIO 471 *Applied and Industrial Microbiology*
 - Awards: Undergraduate Research Award, 2025--26, Funded Presentation at Student Research Conference, Feb 2026
 

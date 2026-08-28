@@ -72,10 +72,10 @@
 
 #section-block("Education", [
 
-#cv-entry("Bachelor of Science - Microbiology", "Graduated in 2026", "Brigham Young University", "Provo, UT")
+#cv-entry("Bachelor of Science - Microbiology", "2026", "Brigham Young University", "Provo, UT")
 - Relevant Coursework: MMBIO 522 *Flow Cytometry*, MMBIO 471 *Applied and Industrial Microbiology*
 
-#cv-entry("Transferred, Biology (Emphasis: Microbiology)", "January 2020-August 2021", "Brigham Young University-Idaho", "Rexburg, ID")
+#cv-entry("Transferred, Biology (Emphasis: Microbiology)", "2021", "Brigham Young University-Idaho", "Rexburg, ID")
 ])
 
 #section-block("Professional/Research Experience", [
